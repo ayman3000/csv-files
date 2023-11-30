@@ -1,0 +1,1001 @@
+Item ID,Item Name,Description,Price,Category,Calories,Option 1 Name,Option 1 Additional Price,Option 2 Name,Option 2 Additional Price,Availability Status
+001,Iced Matcha Latte,A hearty burger with a plant-based patty and fresh toppings,18.41,Dessert,724,Extra Cheese,1.33,,,Not Available
+002,Caesar Salad,"Romaine lettuce with Caesar dressing, croutons, and parmesan",8.76,Main Course,107,,,Almond Milk,0.85,Available
+003,Margherita Pizza,"Romaine lettuce with Caesar dressing, croutons, and parmesan",17.92,Appetizer,628,Chicken Strips,2.78,,,Not Available
+004,Margherita Pizza,A hearty burger with a plant-based patty and fresh toppings,11.74,Dessert,429,Vanilla Ice Cream,2.24,Vanilla Ice Cream,2.64,Available
+005,Chocolate Lava Cake,A hearty burger with a plant-based patty and fresh toppings,16.71,Dessert,195,,,Avocado,1.04,Not Available
+006,Margherita Pizza,"Romaine lettuce with Caesar dressing, croutons, and parmesan",9.12,Dessert,523,,,Chicken Strips,1.47,Available
+007,Iced Matcha Latte,A hearty burger with a plant-based patty and fresh toppings,16.44,Main Course,723,Almond Milk,1.77,Chicken Strips,0.73,Not Available
+008,Chocolate Lava Cake,"Romaine lettuce with Caesar dressing, croutons, and parmesan",6.91,Appetizer,703,Chicken Strips,2.41,,,Not Available
+009,Caesar Salad,Warm chocolate cake with a molten chocolate center,15.35,Main Course,437,,,Avocado,0.68,Not Available
+010,Margherita Pizza,Warm chocolate cake with a molten chocolate center,16.26,Appetizer,676,Almond Milk,1.52,,,Not Available
+011,Chocolate Lava Cake,"Romaine lettuce with Caesar dressing, croutons, and parmesan",12.23,Dessert,501,Avocado,2.04,Vanilla Ice Cream,2.26,Available
+012,Margherita Pizza,Warm chocolate cake with a molten chocolate center,16.44,Main Course,377,Vanilla Ice Cream,0.83,,,Available
+013,Veggie Burger,Creamy matcha tea blend with milk and ice,8.01,Beverage,130,,,,,Not Available
+014,Veggie Burger,Creamy matcha tea blend with milk and ice,15.17,Appetizer,600,Chicken Strips,0.76,,,Available
+015,Caesar Salad,Creamy matcha tea blend with milk and ice,9.3,Dessert,315,Vanilla Ice Cream,2.04,Extra Cheese,2.26,Not Available
+016,Iced Matcha Latte,Creamy matcha tea blend with milk and ice,7.48,Dessert,790,Avocado,2.68,Chicken Strips,0.56,Available
+017,Chocolate Lava Cake,Creamy matcha tea blend with milk and ice,15.65,Dessert,687,Vanilla Ice Cream,2.62,Extra Cheese,0.66,Available
+018,Veggie Burger,"Classic pizza with fresh mozzarella, tomatoes, and basil",5.13,Beverage,290,Almond Milk,1.63,Vanilla Ice Cream,1.53,Not Available
+019,Veggie Burger,"Classic pizza with fresh mozzarella, tomatoes, and basil",5.39,Main Course,429,Avocado,2.35,Vanilla Ice Cream,0.64,Not Available
+020,Caesar Salad,"Classic pizza with fresh mozzarella, tomatoes, and basil",12.08,Dessert,138,,,Vanilla Ice Cream,2.76,Available
+021,Iced Matcha Latte,"Classic pizza with fresh mozzarella, tomatoes, and basil",5.01,Dessert,370,,,Almond Milk,2.53,Not Available
+022,Chocolate Lava Cake,Creamy matcha tea blend with milk and ice,16.58,Main Course,776,Extra Cheese,1.34,Almond Milk,0.54,Available
+023,Chocolate Lava Cake,Warm chocolate cake with a molten chocolate center,14.1,Dessert,220,Chicken Strips,1.29,Extra Cheese,2.06,Not Available
+024,Margherita Pizza,A hearty burger with a plant-based patty and fresh toppings,9.05,Main Course,347,Chicken Strips,1.65,,,Available
+025,Iced Matcha Latte,Warm chocolate cake with a molten chocolate center,5.12,Main Course,544,Avocado,1.92,,,Not Available
+026,Margherita Pizza,"Classic pizza with fresh mozzarella, tomatoes, and basil",16.8,Appetizer,671,Almond Milk,0.89,Vanilla Ice Cream,1.83,Not Available
+027,Margherita Pizza,A hearty burger with a plant-based patty and fresh toppings,6.9,Beverage,145,Chicken Strips,0.69,Vanilla Ice Cream,0.81,Available
+028,Margherita Pizza,"Romaine lettuce with Caesar dressing, croutons, and parmesan",7.84,Dessert,545,,,,,Available
+029,Iced Matcha Latte,Warm chocolate cake with a molten chocolate center,13.42,Main Course,430,,,,,Not Available
+030,Caesar Salad,A hearty burger with a plant-based patty and fresh toppings,15.44,Main Course,748,,,,,Available
+031,Margherita Pizza,A hearty burger with a plant-based patty and fresh toppings,6.82,Main Course,288,,,Almond Milk,1.75,Available
+032,Chocolate Lava Cake,Warm chocolate cake with a molten chocolate center,17.86,Dessert,621,,,,,Not Available
+033,Iced Matcha Latte,"Romaine lettuce with Caesar dressing, croutons, and parmesan",8.02,Appetizer,295,,,Extra Cheese,2.31,Available
+034,Chocolate Lava Cake,A hearty burger with a plant-based patty and fresh toppings,16.15,Main Course,395,Chicken Strips,1.54,Almond Milk,2.59,Available
+035,Iced Matcha Latte,Warm chocolate cake with a molten chocolate center,13.81,Main Course,138,,,,,Not Available
+036,Caesar Salad,"Romaine lettuce with Caesar dressing, croutons, and parmesan",10.1,Dessert,132,,,Vanilla Ice Cream,1.34,Not Available
+037,Chocolate Lava Cake,"Romaine lettuce with Caesar dressing, croutons, and parmesan",5.34,Appetizer,208,,,,,Not Available
+038,Iced Matcha Latte,"Romaine lettuce with Caesar dressing, croutons, and parmesan",13.9,Beverage,139,,,,,Not Available
+039,Caesar Salad,Creamy matcha tea blend with milk and ice,9.38,Main Course,140,,,Almond Milk,0.83,Not Available
+040,Chocolate Lava Cake,"Romaine lettuce with Caesar dressing, croutons, and parmesan",16.0,Beverage,446,Extra Cheese,2.31,Almond Milk,2.7,Available
+041,Margherita Pizza,"Romaine lettuce with Caesar dressing, croutons, and parmesan",7.89,Dessert,154,Extra Cheese,0.65,Chicken Strips,1.73,Available
+042,Margherita Pizza,Warm chocolate cake with a molten chocolate center,17.01,Beverage,670,Almond Milk,1.31,,,Not Available
+043,Iced Matcha Latte,Creamy matcha tea blend with milk and ice,6.29,Main Course,170,,,,,Available
+044,Caesar Salad,"Romaine lettuce with Caesar dressing, croutons, and parmesan",5.86,Main Course,223,Vanilla Ice Cream,0.78,,,Not Available
+045,Chocolate Lava Cake,Creamy matcha tea blend with milk and ice,12.12,Beverage,430,Vanilla Ice Cream,2.15,Extra Cheese,2.53,Available
+046,Iced Matcha Latte,"Romaine lettuce with Caesar dressing, croutons, and parmesan",15.74,Appetizer,656,Avocado,2.27,Extra Cheese,1.36,Not Available
+047,Chocolate Lava Cake,A hearty burger with a plant-based patty and fresh toppings,15.27,Appetizer,696,,,,,Available
+048,Veggie Burger,Creamy matcha tea blend with milk and ice,14.32,Dessert,653,,,Avocado,1.06,Not Available
+049,Caesar Salad,"Classic pizza with fresh mozzarella, tomatoes, and basil",18.51,Appetizer,201,Extra Cheese,2.54,Almond Milk,1.45,Not Available
+050,Caesar Salad,"Classic pizza with fresh mozzarella, tomatoes, and basil",9.52,Main Course,155,Almond Milk,2.27,,,Not Available
+051,Chocolate Lava Cake,Warm chocolate cake with a molten chocolate center,8.14,Main Course,758,Chicken Strips,0.55,,,Available
+052,Veggie Burger,"Romaine lettuce with Caesar dressing, croutons, and parmesan",16.93,Main Course,458,Almond Milk,1.18,Extra Cheese,2.14,Available
+053,Caesar Salad,Creamy matcha tea blend with milk and ice,16.27,Main Course,162,Avocado,1.36,Almond Milk,1.05,Available
+054,Veggie Burger,Creamy matcha tea blend with milk and ice,16.08,Main Course,347,,,Avocado,2.15,Available
+055,Margherita Pizza,Warm chocolate cake with a molten chocolate center,14.7,Main Course,744,Vanilla Ice Cream,2.88,Chicken Strips,2.65,Not Available
+056,Iced Matcha Latte,"Classic pizza with fresh mozzarella, tomatoes, and basil",13.18,Dessert,346,Avocado,2.62,,,Available
+057,Chocolate Lava Cake,"Classic pizza with fresh mozzarella, tomatoes, and basil",5.45,Main Course,200,Almond Milk,2.39,Avocado,2.66,Available
+058,Caesar Salad,"Classic pizza with fresh mozzarella, tomatoes, and basil",13.4,Dessert,545,Extra Cheese,2.85,Chicken Strips,0.85,Not Available
+059,Margherita Pizza,"Romaine lettuce with Caesar dressing, croutons, and parmesan",7.07,Appetizer,684,Almond Milk,2.32,,,Not Available
+060,Veggie Burger,"Romaine lettuce with Caesar dressing, croutons, and parmesan",9.55,Main Course,601,,,,,Available
+061,Iced Matcha Latte,"Romaine lettuce with Caesar dressing, croutons, and parmesan",12.99,Dessert,103,Almond Milk,1.24,,,Available
+062,Caesar Salad,"Romaine lettuce with Caesar dressing, croutons, and parmesan",10.19,Beverage,350,,,Chicken Strips,2.16,Available
+063,Iced Matcha Latte,Creamy matcha tea blend with milk and ice,6.86,Dessert,517,Avocado,0.92,,,Not Available
+064,Caesar Salad,"Classic pizza with fresh mozzarella, tomatoes, and basil",19.85,Dessert,712,,,Almond Milk,1.33,Available
+065,Caesar Salad,Creamy matcha tea blend with milk and ice,6.18,Beverage,109,Vanilla Ice Cream,1.14,,,Available
+066,Iced Matcha Latte,Creamy matcha tea blend with milk and ice,16.62,Beverage,706,,,Almond Milk,1.18,Available
+067,Chocolate Lava Cake,A hearty burger with a plant-based patty and fresh toppings,8.89,Main Course,106,,,,,Available
+068,Chocolate Lava Cake,Creamy matcha tea blend with milk and ice,14.17,Main Course,230,,,Vanilla Ice Cream,1.47,Not Available
+069,Caesar Salad,A hearty burger with a plant-based patty and fresh toppings,19.96,Dessert,130,,,Extra Cheese,2.38,Not Available
+070,Veggie Burger,Creamy matcha tea blend with milk and ice,18.88,Main Course,331,,,Avocado,2.84,Available
+071,Veggie Burger,"Classic pizza with fresh mozzarella, tomatoes, and basil",17.03,Main Course,455,,,,,Available
+072,Margherita Pizza,Creamy matcha tea blend with milk and ice,12.78,Dessert,574,Almond Milk,2.34,,,Available
+073,Caesar Salad,"Classic pizza with fresh mozzarella, tomatoes, and basil",18.49,Dessert,759,,,Chicken Strips,2.45,Available
+074,Veggie Burger,Creamy matcha tea blend with milk and ice,11.33,Beverage,402,Vanilla Ice Cream,2.59,,,Available
+075,Margherita Pizza,A hearty burger with a plant-based patty and fresh toppings,16.36,Beverage,344,,,Chicken Strips,1.05,Not Available
+076,Caesar Salad,A hearty burger with a plant-based patty and fresh toppings,8.61,Main Course,305,,,,,Not Available
+077,Chocolate Lava Cake,"Classic pizza with fresh mozzarella, tomatoes, and basil",9.32,Beverage,277,Extra Cheese,1.94,,,Available
+078,Iced Matcha Latte,"Classic pizza with fresh mozzarella, tomatoes, and basil",10.92,Main Course,549,,,,,Not Available
+079,Caesar Salad,Creamy matcha tea blend with milk and ice,19.67,Beverage,410,,,,,Not Available
+080,Iced Matcha Latte,"Classic pizza with fresh mozzarella, tomatoes, and basil",18.23,Main Course,439,Chicken Strips,1.47,,,Available
+081,Caesar Salad,Creamy matcha tea blend with milk and ice,16.25,Dessert,365,Chicken Strips,1.47,,,Not Available
+082,Caesar Salad,Creamy matcha tea blend with milk and ice,13.35,Main Course,700,Extra Cheese,1.05,Avocado,1.77,Not Available
+083,Caesar Salad,"Classic pizza with fresh mozzarella, tomatoes, and basil",19.1,Main Course,364,,,,,Not Available
+084,Margherita Pizza,Warm chocolate cake with a molten chocolate center,10.38,Dessert,317,Vanilla Ice Cream,0.85,,,Available
+085,Chocolate Lava Cake,A hearty burger with a plant-based patty and fresh toppings,6.74,Dessert,494,Chicken Strips,2.9,,,Not Available
+086,Iced Matcha Latte,"Classic pizza with fresh mozzarella, tomatoes, and basil",6.81,Dessert,165,Chicken Strips,2.83,,,Not Available
+087,Veggie Burger,A hearty burger with a plant-based patty and fresh toppings,5.07,Main Course,354,,,Extra Cheese,2.14,Available
+088,Iced Matcha Latte,"Romaine lettuce with Caesar dressing, croutons, and parmesan",19.66,Dessert,177,Almond Milk,0.75,,,Not Available
+089,Chocolate Lava Cake,A hearty burger with a plant-based patty and fresh toppings,18.25,Main Course,757,Vanilla Ice Cream,2.99,,,Not Available
+090,Veggie Burger,A hearty burger with a plant-based patty and fresh toppings,7.84,Dessert,453,,,Almond Milk,2.45,Not Available
+091,Margherita Pizza,Creamy matcha tea blend with milk and ice,9.14,Main Course,395,Almond Milk,1.47,,,Available
+092,Chocolate Lava Cake,"Romaine lettuce with Caesar dressing, croutons, and parmesan",8.21,Beverage,289,,,,,Not Available
+093,Margherita Pizza,"Classic pizza with fresh mozzarella, tomatoes, and basil",12.86,Main Course,330,Avocado,1.59,,,Not Available
+094,Veggie Burger,Creamy matcha tea blend with milk and ice,5.68,Main Course,647,,,Chicken Strips,2.74,Not Available
+095,Caesar Salad,Creamy matcha tea blend with milk and ice,13.12,Main Course,116,Almond Milk,0.73,,,Not Available
+096,Caesar Salad,"Classic pizza with fresh mozzarella, tomatoes, and basil",6.15,Beverage,516,,,Chicken Strips,1.24,Not Available
+097,Iced Matcha Latte,"Classic pizza with fresh mozzarella, tomatoes, and basil",6.08,Dessert,410,Almond Milk,1.34,Chicken Strips,0.71,Not Available
+098,Veggie Burger,Creamy matcha tea blend with milk and ice,8.0,Dessert,717,,,,,Not Available
+099,Veggie Burger,Warm chocolate cake with a molten chocolate center,8.78,Beverage,516,Extra Cheese,1.78,,,Available
+100,Iced Matcha Latte,Creamy matcha tea blend with milk and ice,18.39,Appetizer,198,,,,,Available
+101,Caesar Salad,"Romaine lettuce with Caesar dressing, croutons, and parmesan",9.39,Main Course,790,Vanilla Ice Cream,2.52,Avocado,1.8,Not Available
+102,Veggie Burger,Creamy matcha tea blend with milk and ice,6.52,Dessert,797,Almond Milk,0.76,Extra Cheese,0.92,Not Available
+103,Caesar Salad,A hearty burger with a plant-based patty and fresh toppings,14.14,Main Course,444,Almond Milk,2.28,,,Available
+104,Chocolate Lava Cake,Warm chocolate cake with a molten chocolate center,6.74,Appetizer,605,Chicken Strips,1.71,,,Available
+105,Caesar Salad,Warm chocolate cake with a molten chocolate center,9.37,Dessert,790,,,,,Not Available
+106,Caesar Salad,"Classic pizza with fresh mozzarella, tomatoes, and basil",6.37,Beverage,530,Almond Milk,0.76,,,Not Available
+107,Iced Matcha Latte,"Classic pizza with fresh mozzarella, tomatoes, and basil",13.67,Main Course,421,Avocado,1.41,,,Not Available
+108,Veggie Burger,Creamy matcha tea blend with milk and ice,5.85,Main Course,536,Vanilla Ice Cream,2.91,,,Not Available
+109,Caesar Salad,Creamy matcha tea blend with milk and ice,9.33,Appetizer,794,Extra Cheese,0.62,Chicken Strips,2.6,Not Available
+110,Margherita Pizza,Creamy matcha tea blend with milk and ice,5.01,Beverage,183,,,,,Available
+111,Margherita Pizza,"Romaine lettuce with Caesar dressing, croutons, and parmesan",17.67,Dessert,638,Vanilla Ice Cream,1.98,,,Not Available
+112,Chocolate Lava Cake,"Romaine lettuce with Caesar dressing, croutons, and parmesan",11.3,Appetizer,790,Vanilla Ice Cream,1.18,,,Available
+113,Iced Matcha Latte,Creamy matcha tea blend with milk and ice,14.78,Main Course,118,Extra Cheese,2.36,Extra Cheese,2.12,Not Available
+114,Caesar Salad,Warm chocolate cake with a molten chocolate center,5.08,Main Course,562,,,Vanilla Ice Cream,2.9,Not Available
+115,Chocolate Lava Cake,Warm chocolate cake with a molten chocolate center,19.37,Main Course,132,,,Almond Milk,2.64,Not Available
+116,Chocolate Lava Cake,Warm chocolate cake with a molten chocolate center,9.52,Dessert,283,Chicken Strips,2.69,,,Not Available
+117,Margherita Pizza,Creamy matcha tea blend with milk and ice,13.79,Beverage,540,,,Vanilla Ice Cream,1.16,Not Available
+118,Iced Matcha Latte,Creamy matcha tea blend with milk and ice,15.62,Main Course,413,Chicken Strips,2.01,,,Available
+119,Chocolate Lava Cake,"Romaine lettuce with Caesar dressing, croutons, and parmesan",18.72,Dessert,540,,,Chicken Strips,2.85,Not Available
+120,Caesar Salad,Warm chocolate cake with a molten chocolate center,16.97,Appetizer,594,,,,,Not Available
+121,Chocolate Lava Cake,Creamy matcha tea blend with milk and ice,18.36,Dessert,419,,,,,Not Available
+122,Iced Matcha Latte,"Romaine lettuce with Caesar dressing, croutons, and parmesan",9.18,Beverage,134,,,,,Available
+123,Veggie Burger,A hearty burger with a plant-based patty and fresh toppings,12.89,Dessert,379,Avocado,2.6,,,Available
+124,Caesar Salad,"Classic pizza with fresh mozzarella, tomatoes, and basil",16.96,Appetizer,776,Avocado,2.88,Almond Milk,2.8,Not Available
+125,Caesar Salad,"Classic pizza with fresh mozzarella, tomatoes, and basil",15.4,Main Course,519,Almond Milk,2.86,,,Not Available
+126,Margherita Pizza,"Romaine lettuce with Caesar dressing, croutons, and parmesan",18.72,Appetizer,103,Avocado,0.83,,,Available
+127,Margherita Pizza,Warm chocolate cake with a molten chocolate center,6.48,Beverage,188,Almond Milk,0.68,,,Not Available
+128,Chocolate Lava Cake,A hearty burger with a plant-based patty and fresh toppings,6.68,Dessert,290,Extra Cheese,1.82,Extra Cheese,2.31,Not Available
+129,Veggie Burger,Warm chocolate cake with a molten chocolate center,7.25,Appetizer,680,,,,,Not Available
+130,Caesar Salad,A hearty burger with a plant-based patty and fresh toppings,19.62,Main Course,277,,,,,Not Available
+131,Margherita Pizza,Creamy matcha tea blend with milk and ice,11.24,Appetizer,687,,,Avocado,1.92,Not Available
+132,Iced Matcha Latte,Warm chocolate cake with a molten chocolate center,8.22,Main Course,110,,,Vanilla Ice Cream,0.78,Not Available
+133,Chocolate Lava Cake,Warm chocolate cake with a molten chocolate center,16.16,Dessert,476,,,Vanilla Ice Cream,1.08,Not Available
+134,Iced Matcha Latte,"Romaine lettuce with Caesar dressing, croutons, and parmesan",15.2,Beverage,556,,,Avocado,0.54,Not Available
+135,Chocolate Lava Cake,"Classic pizza with fresh mozzarella, tomatoes, and basil",7.18,Appetizer,429,,,Extra Cheese,1.81,Available
+136,Margherita Pizza,Warm chocolate cake with a molten chocolate center,14.13,Beverage,212,,,Avocado,2.74,Not Available
+137,Veggie Burger,A hearty burger with a plant-based patty and fresh toppings,13.59,Beverage,426,Extra Cheese,2.4,,,Available
+138,Chocolate Lava Cake,Warm chocolate cake with a molten chocolate center,11.41,Beverage,664,Vanilla Ice Cream,1.34,Chicken Strips,2.78,Not Available
+139,Iced Matcha Latte,A hearty burger with a plant-based patty and fresh toppings,16.27,Appetizer,317,Avocado,1.03,,,Not Available
+140,Iced Matcha Latte,"Romaine lettuce with Caesar dressing, croutons, and parmesan",17.19,Appetizer,511,,,,,Available
+141,Caesar Salad,"Romaine lettuce with Caesar dressing, croutons, and parmesan",16.71,Main Course,313,Extra Cheese,2.22,,,Available
+142,Veggie Burger,Warm chocolate cake with a molten chocolate center,11.63,Dessert,453,Vanilla Ice Cream,2.55,Vanilla Ice Cream,1.85,Available
+143,Veggie Burger,Creamy matcha tea blend with milk and ice,15.8,Dessert,112,Extra Cheese,2.79,,,Not Available
+144,Veggie Burger,"Romaine lettuce with Caesar dressing, croutons, and parmesan",17.6,Main Course,315,Vanilla Ice Cream,1.35,Chicken Strips,1.17,Not Available
+145,Margherita Pizza,"Classic pizza with fresh mozzarella, tomatoes, and basil",10.71,Main Course,304,Avocado,1.09,,,Available
+146,Caesar Salad,Creamy matcha tea blend with milk and ice,12.96,Dessert,672,,,Avocado,2.87,Available
+147,Caesar Salad,"Romaine lettuce with Caesar dressing, croutons, and parmesan",9.52,Appetizer,417,,,,,Not Available
+148,Veggie Burger,Warm chocolate cake with a molten chocolate center,18.27,Appetizer,126,,,,,Available
+149,Margherita Pizza,Warm chocolate cake with a molten chocolate center,7.0,Dessert,706,,,,,Available
+150,Iced Matcha Latte,A hearty burger with a plant-based patty and fresh toppings,10.16,Main Course,777,,,Extra Cheese,0.51,Available
+151,Margherita Pizza,Creamy matcha tea blend with milk and ice,12.41,Beverage,667,,,Chicken Strips,0.53,Not Available
+152,Veggie Burger,"Romaine lettuce with Caesar dressing, croutons, and parmesan",10.94,Main Course,402,Vanilla Ice Cream,2.59,Avocado,1.54,Not Available
+153,Iced Matcha Latte,Warm chocolate cake with a molten chocolate center,13.48,Main Course,331,,,Avocado,2.48,Available
+154,Margherita Pizza,Warm chocolate cake with a molten chocolate center,11.46,Beverage,465,Vanilla Ice Cream,2.37,Chicken Strips,2.01,Not Available
+155,Veggie Burger,Warm chocolate cake with a molten chocolate center,14.89,Beverage,352,,,Extra Cheese,2.63,Available
+156,Margherita Pizza,Creamy matcha tea blend with milk and ice,9.56,Main Course,493,Extra Cheese,2.13,Avocado,0.83,Not Available
+157,Margherita Pizza,"Classic pizza with fresh mozzarella, tomatoes, and basil",19.03,Appetizer,755,Chicken Strips,0.86,Almond Milk,2.99,Available
+158,Chocolate Lava Cake,Creamy matcha tea blend with milk and ice,5.53,Main Course,332,Avocado,2.89,,,Available
+159,Chocolate Lava Cake,"Classic pizza with fresh mozzarella, tomatoes, and basil",6.19,Beverage,491,Chicken Strips,1.2,,,Available
+160,Chocolate Lava Cake,A hearty burger with a plant-based patty and fresh toppings,8.66,Appetizer,617,,,Vanilla Ice Cream,0.84,Available
+161,Margherita Pizza,"Classic pizza with fresh mozzarella, tomatoes, and basil",6.99,Beverage,287,,,,,Available
+162,Chocolate Lava Cake,"Romaine lettuce with Caesar dressing, croutons, and parmesan",12.95,Appetizer,314,,,,,Not Available
+163,Margherita Pizza,Creamy matcha tea blend with milk and ice,13.93,Appetizer,501,,,Extra Cheese,2.58,Available
+164,Chocolate Lava Cake,"Classic pizza with fresh mozzarella, tomatoes, and basil",16.52,Main Course,527,Vanilla Ice Cream,2.07,Chicken Strips,2.1,Available
+165,Veggie Burger,Warm chocolate cake with a molten chocolate center,9.25,Main Course,386,Chicken Strips,1.84,Extra Cheese,1.45,Available
+166,Caesar Salad,Warm chocolate cake with a molten chocolate center,11.28,Beverage,443,,,,,Available
+167,Margherita Pizza,Warm chocolate cake with a molten chocolate center,14.69,Main Course,277,,,,,Not Available
+168,Veggie Burger,"Romaine lettuce with Caesar dressing, croutons, and parmesan",9.3,Dessert,374,,,Almond Milk,2.67,Available
+169,Chocolate Lava Cake,"Classic pizza with fresh mozzarella, tomatoes, and basil",10.71,Beverage,216,,,Extra Cheese,1.26,Available
+170,Veggie Burger,A hearty burger with a plant-based patty and fresh toppings,12.7,Main Course,344,Almond Milk,2.29,Avocado,1.36,Available
+171,Chocolate Lava Cake,"Classic pizza with fresh mozzarella, tomatoes, and basil",12.51,Main Course,688,Vanilla Ice Cream,0.76,,,Available
+172,Margherita Pizza,A hearty burger with a plant-based patty and fresh toppings,15.37,Beverage,269,Extra Cheese,0.73,Almond Milk,2.85,Available
+173,Iced Matcha Latte,Warm chocolate cake with a molten chocolate center,16.42,Beverage,442,,,,,Not Available
+174,Caesar Salad,A hearty burger with a plant-based patty and fresh toppings,12.99,Beverage,375,Vanilla Ice Cream,1.83,Extra Cheese,0.59,Not Available
+175,Margherita Pizza,"Romaine lettuce with Caesar dressing, croutons, and parmesan",11.41,Beverage,163,,,Almond Milk,0.72,Not Available
+176,Veggie Burger,A hearty burger with a plant-based patty and fresh toppings,16.02,Dessert,407,Avocado,0.64,,,Not Available
+177,Veggie Burger,A hearty burger with a plant-based patty and fresh toppings,11.27,Main Course,643,,,Extra Cheese,2.94,Not Available
+178,Veggie Burger,Warm chocolate cake with a molten chocolate center,7.21,Appetizer,149,Extra Cheese,0.56,Chicken Strips,1.35,Available
+179,Margherita Pizza,Warm chocolate cake with a molten chocolate center,16.04,Beverage,596,Chicken Strips,2.38,,,Available
+180,Veggie Burger,"Classic pizza with fresh mozzarella, tomatoes, and basil",6.52,Dessert,357,,,,,Available
+181,Iced Matcha Latte,Creamy matcha tea blend with milk and ice,5.75,Main Course,712,,,,,Available
+182,Iced Matcha Latte,"Classic pizza with fresh mozzarella, tomatoes, and basil",16.25,Beverage,512,Chicken Strips,1.16,,,Available
+183,Iced Matcha Latte,Creamy matcha tea blend with milk and ice,12.57,Appetizer,284,Chicken Strips,1.68,Almond Milk,1.75,Not Available
+184,Veggie Burger,"Classic pizza with fresh mozzarella, tomatoes, and basil",19.37,Main Course,162,Almond Milk,1.61,Extra Cheese,2.45,Available
+185,Iced Matcha Latte,"Romaine lettuce with Caesar dressing, croutons, and parmesan",19.75,Main Course,636,,,Almond Milk,1.84,Not Available
+186,Iced Matcha Latte,Warm chocolate cake with a molten chocolate center,10.75,Beverage,504,,,Chicken Strips,1.58,Available
+187,Margherita Pizza,Warm chocolate cake with a molten chocolate center,13.33,Main Course,748,Chicken Strips,0.6,Avocado,2.3,Available
+188,Margherita Pizza,"Romaine lettuce with Caesar dressing, croutons, and parmesan",5.01,Main Course,354,,,Avocado,1.47,Available
+189,Iced Matcha Latte,Warm chocolate cake with a molten chocolate center,8.43,Dessert,772,Chicken Strips,2.1,Vanilla Ice Cream,0.63,Not Available
+190,Margherita Pizza,Creamy matcha tea blend with milk and ice,14.59,Appetizer,276,Vanilla Ice Cream,2.32,Almond Milk,1.44,Not Available
+191,Margherita Pizza,A hearty burger with a plant-based patty and fresh toppings,8.09,Main Course,779,,,,,Available
+192,Margherita Pizza,A hearty burger with a plant-based patty and fresh toppings,5.65,Main Course,101,Vanilla Ice Cream,2.35,,,Available
+193,Iced Matcha Latte,Warm chocolate cake with a molten chocolate center,13.02,Main Course,373,Vanilla Ice Cream,2.42,Chicken Strips,2.69,Not Available
+194,Caesar Salad,"Romaine lettuce with Caesar dressing, croutons, and parmesan",14.8,Main Course,722,,,,,Not Available
+195,Iced Matcha Latte,"Classic pizza with fresh mozzarella, tomatoes, and basil",11.16,Appetizer,328,Vanilla Ice Cream,1.51,Chicken Strips,1.64,Not Available
+196,Iced Matcha Latte,A hearty burger with a plant-based patty and fresh toppings,10.47,Main Course,704,Almond Milk,2.42,,,Not Available
+197,Caesar Salad,Creamy matcha tea blend with milk and ice,5.74,Appetizer,255,,,,,Not Available
+198,Iced Matcha Latte,Warm chocolate cake with a molten chocolate center,14.53,Dessert,505,,,,,Available
+199,Chocolate Lava Cake,A hearty burger with a plant-based patty and fresh toppings,11.65,Beverage,165,,,,,Available
+200,Veggie Burger,Creamy matcha tea blend with milk and ice,12.9,Main Course,772,,,,,Not Available
+201,Chocolate Lava Cake,Creamy matcha tea blend with milk and ice,8.1,Dessert,169,,,Chicken Strips,2.7,Available
+202,Margherita Pizza,"Romaine lettuce with Caesar dressing, croutons, and parmesan",16.38,Main Course,765,,,Extra Cheese,1.75,Not Available
+203,Iced Matcha Latte,"Romaine lettuce with Caesar dressing, croutons, and parmesan",6.24,Main Course,242,Almond Milk,2.59,Avocado,2.54,Not Available
+204,Veggie Burger,Warm chocolate cake with a molten chocolate center,8.59,Main Course,769,Vanilla Ice Cream,0.88,Avocado,2.93,Available
+205,Veggie Burger,"Classic pizza with fresh mozzarella, tomatoes, and basil",5.76,Main Course,654,Chicken Strips,1.88,Vanilla Ice Cream,1.91,Available
+206,Veggie Burger,A hearty burger with a plant-based patty and fresh toppings,6.0,Main Course,346,,,Chicken Strips,2.39,Not Available
+207,Caesar Salad,Warm chocolate cake with a molten chocolate center,13.34,Appetizer,704,,,Extra Cheese,1.17,Available
+208,Iced Matcha Latte,Warm chocolate cake with a molten chocolate center,8.21,Main Course,296,Extra Cheese,1.65,Vanilla Ice Cream,0.55,Available
+209,Margherita Pizza,"Romaine lettuce with Caesar dressing, croutons, and parmesan",13.92,Dessert,552,Almond Milk,1.98,,,Available
+210,Chocolate Lava Cake,A hearty burger with a plant-based patty and fresh toppings,5.86,Main Course,151,Vanilla Ice Cream,2.66,Extra Cheese,2.04,Available
+211,Veggie Burger,Creamy matcha tea blend with milk and ice,14.15,Appetizer,465,Almond Milk,0.64,Avocado,1.66,Not Available
+212,Veggie Burger,Warm chocolate cake with a molten chocolate center,12.51,Dessert,725,Chicken Strips,2.84,Avocado,1.68,Not Available
+213,Margherita Pizza,"Classic pizza with fresh mozzarella, tomatoes, and basil",10.76,Beverage,642,,,Almond Milk,0.52,Available
+214,Iced Matcha Latte,Warm chocolate cake with a molten chocolate center,6.68,Main Course,566,,,,,Not Available
+215,Veggie Burger,Creamy matcha tea blend with milk and ice,19.62,Main Course,634,Almond Milk,0.86,Almond Milk,0.62,Available
+216,Veggie Burger,Creamy matcha tea blend with milk and ice,11.29,Appetizer,475,,,Extra Cheese,0.86,Not Available
+217,Caesar Salad,Warm chocolate cake with a molten chocolate center,7.14,Beverage,643,Chicken Strips,2.18,Vanilla Ice Cream,2.88,Not Available
+218,Caesar Salad,"Classic pizza with fresh mozzarella, tomatoes, and basil",12.26,Beverage,422,,,,,Not Available
+219,Veggie Burger,Creamy matcha tea blend with milk and ice,14.73,Beverage,790,Chicken Strips,2.46,,,Not Available
+220,Caesar Salad,"Classic pizza with fresh mozzarella, tomatoes, and basil",12.79,Main Course,739,Avocado,0.52,Avocado,0.52,Available
+221,Iced Matcha Latte,Warm chocolate cake with a molten chocolate center,17.37,Beverage,347,,,Extra Cheese,0.79,Not Available
+222,Veggie Burger,Warm chocolate cake with a molten chocolate center,13.77,Appetizer,204,,,Almond Milk,1.93,Available
+223,Chocolate Lava Cake,"Classic pizza with fresh mozzarella, tomatoes, and basil",10.6,Main Course,304,Almond Milk,1.19,,,Available
+224,Iced Matcha Latte,"Classic pizza with fresh mozzarella, tomatoes, and basil",5.0,Appetizer,249,Avocado,1.38,Avocado,1.08,Available
+225,Chocolate Lava Cake,Creamy matcha tea blend with milk and ice,7.99,Beverage,151,Extra Cheese,1.0,,,Not Available
+226,Margherita Pizza,A hearty burger with a plant-based patty and fresh toppings,13.15,Dessert,759,,,Vanilla Ice Cream,2.55,Not Available
+227,Chocolate Lava Cake,"Classic pizza with fresh mozzarella, tomatoes, and basil",17.54,Appetizer,374,,,Extra Cheese,1.59,Not Available
+228,Iced Matcha Latte,Warm chocolate cake with a molten chocolate center,5.38,Dessert,718,Extra Cheese,1.71,Avocado,1.1,Available
+229,Caesar Salad,A hearty burger with a plant-based patty and fresh toppings,19.25,Main Course,653,,,Vanilla Ice Cream,2.12,Not Available
+230,Margherita Pizza,Creamy matcha tea blend with milk and ice,14.97,Main Course,217,Vanilla Ice Cream,0.88,Vanilla Ice Cream,2.75,Available
+231,Chocolate Lava Cake,"Classic pizza with fresh mozzarella, tomatoes, and basil",10.89,Beverage,507,Vanilla Ice Cream,2.63,,,Available
+232,Margherita Pizza,A hearty burger with a plant-based patty and fresh toppings,17.62,Main Course,422,,,,,Not Available
+233,Chocolate Lava Cake,"Classic pizza with fresh mozzarella, tomatoes, and basil",6.04,Main Course,570,,,,,Available
+234,Caesar Salad,A hearty burger with a plant-based patty and fresh toppings,17.66,Beverage,342,Extra Cheese,1.31,,,Available
+235,Caesar Salad,"Romaine lettuce with Caesar dressing, croutons, and parmesan",17.6,Dessert,590,,,,,Available
+236,Veggie Burger,"Classic pizza with fresh mozzarella, tomatoes, and basil",9.36,Appetizer,605,Almond Milk,2.04,,,Not Available
+237,Chocolate Lava Cake,Creamy matcha tea blend with milk and ice,18.75,Appetizer,430,Almond Milk,2.5,,,Available
+238,Chocolate Lava Cake,"Romaine lettuce with Caesar dressing, croutons, and parmesan",6.09,Main Course,375,,,Almond Milk,1.99,Available
+239,Margherita Pizza,"Romaine lettuce with Caesar dressing, croutons, and parmesan",11.76,Dessert,387,,,Chicken Strips,2.11,Not Available
+240,Iced Matcha Latte,A hearty burger with a plant-based patty and fresh toppings,6.87,Main Course,597,,,,,Available
+241,Chocolate Lava Cake,Creamy matcha tea blend with milk and ice,5.85,Main Course,448,,,Extra Cheese,2.31,Available
+242,Caesar Salad,Warm chocolate cake with a molten chocolate center,8.08,Dessert,538,,,,,Available
+243,Caesar Salad,Warm chocolate cake with a molten chocolate center,15.04,Beverage,450,,,Almond Milk,1.67,Not Available
+244,Veggie Burger,Warm chocolate cake with a molten chocolate center,12.57,Beverage,424,,,Extra Cheese,1.43,Not Available
+245,Margherita Pizza,A hearty burger with a plant-based patty and fresh toppings,6.83,Beverage,112,Chicken Strips,0.81,,,Not Available
+246,Chocolate Lava Cake,"Romaine lettuce with Caesar dressing, croutons, and parmesan",8.03,Appetizer,717,Almond Milk,2.58,Almond Milk,2.02,Not Available
+247,Caesar Salad,"Classic pizza with fresh mozzarella, tomatoes, and basil",17.56,Dessert,148,,,Almond Milk,2.89,Not Available
+248,Iced Matcha Latte,"Romaine lettuce with Caesar dressing, croutons, and parmesan",12.06,Appetizer,540,,,,,Available
+249,Caesar Salad,"Romaine lettuce with Caesar dressing, croutons, and parmesan",14.46,Main Course,745,,,,,Available
+250,Caesar Salad,A hearty burger with a plant-based patty and fresh toppings,15.23,Main Course,707,,,,,Available
+251,Caesar Salad,"Romaine lettuce with Caesar dressing, croutons, and parmesan",19.96,Beverage,418,,,,,Available
+252,Caesar Salad,Creamy matcha tea blend with milk and ice,7.31,Main Course,687,,,Extra Cheese,1.92,Available
+253,Veggie Burger,A hearty burger with a plant-based patty and fresh toppings,12.48,Dessert,462,Vanilla Ice Cream,0.71,,,Available
+254,Chocolate Lava Cake,"Romaine lettuce with Caesar dressing, croutons, and parmesan",19.46,Main Course,329,Extra Cheese,2.3,Vanilla Ice Cream,1.13,Available
+255,Iced Matcha Latte,A hearty burger with a plant-based patty and fresh toppings,10.5,Main Course,561,,,Almond Milk,2.33,Available
+256,Iced Matcha Latte,"Classic pizza with fresh mozzarella, tomatoes, and basil",18.1,Beverage,555,Extra Cheese,0.52,Extra Cheese,2.87,Available
+257,Caesar Salad,Creamy matcha tea blend with milk and ice,12.17,Appetizer,679,,,,,Available
+258,Veggie Burger,Creamy matcha tea blend with milk and ice,11.18,Beverage,607,Almond Milk,1.14,Extra Cheese,2.8,Not Available
+259,Caesar Salad,A hearty burger with a plant-based patty and fresh toppings,19.51,Main Course,567,Avocado,1.26,Almond Milk,2.25,Not Available
+260,Chocolate Lava Cake,Creamy matcha tea blend with milk and ice,18.02,Appetizer,800,,,,,Not Available
+261,Caesar Salad,"Classic pizza with fresh mozzarella, tomatoes, and basil",16.54,Appetizer,568,,,Avocado,2.33,Not Available
+262,Iced Matcha Latte,Warm chocolate cake with a molten chocolate center,6.73,Main Course,751,,,Vanilla Ice Cream,2.13,Not Available
+263,Margherita Pizza,Creamy matcha tea blend with milk and ice,14.17,Appetizer,512,,,Avocado,0.74,Not Available
+264,Chocolate Lava Cake,Warm chocolate cake with a molten chocolate center,19.65,Beverage,623,Almond Milk,2.23,,,Not Available
+265,Margherita Pizza,"Classic pizza with fresh mozzarella, tomatoes, and basil",10.75,Beverage,628,,,Vanilla Ice Cream,1.62,Not Available
+266,Iced Matcha Latte,A hearty burger with a plant-based patty and fresh toppings,12.27,Beverage,388,Almond Milk,2.88,,,Not Available
+267,Veggie Burger,Warm chocolate cake with a molten chocolate center,7.23,Main Course,303,Avocado,2.44,Avocado,2.2,Not Available
+268,Caesar Salad,"Romaine lettuce with Caesar dressing, croutons, and parmesan",18.93,Beverage,250,Chicken Strips,2.54,,,Not Available
+269,Veggie Burger,Warm chocolate cake with a molten chocolate center,6.6,Appetizer,725,Almond Milk,1.9,Chicken Strips,0.86,Available
+270,Iced Matcha Latte,"Classic pizza with fresh mozzarella, tomatoes, and basil",6.03,Dessert,230,,,,,Available
+271,Veggie Burger,"Romaine lettuce with Caesar dressing, croutons, and parmesan",18.68,Main Course,325,Extra Cheese,1.16,Avocado,1.61,Available
+272,Caesar Salad,Warm chocolate cake with a molten chocolate center,17.71,Main Course,626,Vanilla Ice Cream,2.6,,,Available
+273,Veggie Burger,Warm chocolate cake with a molten chocolate center,14.46,Main Course,491,,,,,Not Available
+274,Veggie Burger,A hearty burger with a plant-based patty and fresh toppings,12.84,Appetizer,522,Extra Cheese,0.77,Avocado,1.84,Available
+275,Veggie Burger,Warm chocolate cake with a molten chocolate center,5.95,Dessert,631,,,,,Not Available
+276,Chocolate Lava Cake,A hearty burger with a plant-based patty and fresh toppings,16.2,Beverage,771,Almond Milk,2.91,,,Available
+277,Caesar Salad,A hearty burger with a plant-based patty and fresh toppings,12.18,Main Course,204,Vanilla Ice Cream,1.22,,,Available
+278,Veggie Burger,"Romaine lettuce with Caesar dressing, croutons, and parmesan",16.87,Appetizer,423,Chicken Strips,2.73,Almond Milk,0.7,Available
+279,Veggie Burger,Warm chocolate cake with a molten chocolate center,14.11,Beverage,747,,,,,Not Available
+280,Chocolate Lava Cake,Warm chocolate cake with a molten chocolate center,10.01,Main Course,173,Extra Cheese,2.06,Extra Cheese,1.37,Available
+281,Chocolate Lava Cake,"Romaine lettuce with Caesar dressing, croutons, and parmesan",13.12,Beverage,669,Chicken Strips,2.55,Extra Cheese,2.99,Not Available
+282,Iced Matcha Latte,"Classic pizza with fresh mozzarella, tomatoes, and basil",8.81,Beverage,620,,,Almond Milk,1.34,Not Available
+283,Chocolate Lava Cake,A hearty burger with a plant-based patty and fresh toppings,11.77,Beverage,773,,,Vanilla Ice Cream,1.6,Not Available
+284,Margherita Pizza,Warm chocolate cake with a molten chocolate center,13.49,Appetizer,476,Avocado,1.63,,,Not Available
+285,Chocolate Lava Cake,"Romaine lettuce with Caesar dressing, croutons, and parmesan",19.19,Beverage,217,,,,,Not Available
+286,Veggie Burger,Warm chocolate cake with a molten chocolate center,14.1,Dessert,410,,,Extra Cheese,0.76,Available
+287,Margherita Pizza,Warm chocolate cake with a molten chocolate center,9.43,Main Course,426,,,,,Available
+288,Veggie Burger,Creamy matcha tea blend with milk and ice,5.85,Main Course,640,,,,,Available
+289,Chocolate Lava Cake,"Romaine lettuce with Caesar dressing, croutons, and parmesan",8.73,Main Course,362,,,Almond Milk,2.0,Not Available
+290,Margherita Pizza,A hearty burger with a plant-based patty and fresh toppings,8.67,Appetizer,543,,,,,Available
+291,Caesar Salad,A hearty burger with a plant-based patty and fresh toppings,18.58,Main Course,726,Almond Milk,1.71,Almond Milk,2.39,Available
+292,Caesar Salad,"Romaine lettuce with Caesar dressing, croutons, and parmesan",12.91,Appetizer,562,Almond Milk,0.9,Chicken Strips,2.35,Available
+293,Iced Matcha Latte,A hearty burger with a plant-based patty and fresh toppings,10.7,Main Course,368,,,Extra Cheese,1.09,Not Available
+294,Margherita Pizza,"Romaine lettuce with Caesar dressing, croutons, and parmesan",13.23,Appetizer,690,,,Almond Milk,0.61,Available
+295,Veggie Burger,Warm chocolate cake with a molten chocolate center,7.5,Main Course,545,,,,,Not Available
+296,Iced Matcha Latte,A hearty burger with a plant-based patty and fresh toppings,7.18,Appetizer,328,,,,,Available
+297,Margherita Pizza,Creamy matcha tea blend with milk and ice,5.97,Dessert,582,Almond Milk,2.54,Chicken Strips,0.52,Not Available
+298,Chocolate Lava Cake,"Romaine lettuce with Caesar dressing, croutons, and parmesan",9.37,Main Course,442,,,,,Available
+299,Caesar Salad,Warm chocolate cake with a molten chocolate center,7.96,Main Course,229,,,,,Not Available
+300,Chocolate Lava Cake,"Classic pizza with fresh mozzarella, tomatoes, and basil",12.96,Appetizer,249,Extra Cheese,0.81,Vanilla Ice Cream,2.5,Available
+301,Veggie Burger,A hearty burger with a plant-based patty and fresh toppings,16.99,Main Course,474,Almond Milk,2.85,Chicken Strips,0.65,Available
+302,Iced Matcha Latte,Creamy matcha tea blend with milk and ice,14.22,Main Course,747,Extra Cheese,2.58,Extra Cheese,1.18,Available
+303,Caesar Salad,"Classic pizza with fresh mozzarella, tomatoes, and basil",17.99,Appetizer,120,Avocado,1.21,,,Available
+304,Caesar Salad,Warm chocolate cake with a molten chocolate center,6.58,Main Course,277,Almond Milk,0.96,,,Not Available
+305,Margherita Pizza,Warm chocolate cake with a molten chocolate center,15.18,Dessert,172,,,,,Available
+306,Iced Matcha Latte,A hearty burger with a plant-based patty and fresh toppings,8.42,Main Course,428,,,Vanilla Ice Cream,1.66,Available
+307,Margherita Pizza,"Classic pizza with fresh mozzarella, tomatoes, and basil",10.39,Main Course,506,,,,,Not Available
+308,Chocolate Lava Cake,Creamy matcha tea blend with milk and ice,14.1,Appetizer,714,Avocado,2.17,Almond Milk,2.6,Available
+309,Caesar Salad,A hearty burger with a plant-based patty and fresh toppings,16.08,Main Course,576,Vanilla Ice Cream,2.92,Extra Cheese,0.54,Available
+310,Veggie Burger,Creamy matcha tea blend with milk and ice,5.37,Main Course,750,,,Extra Cheese,1.13,Not Available
+311,Iced Matcha Latte,Warm chocolate cake with a molten chocolate center,19.75,Dessert,641,Avocado,2.68,,,Not Available
+312,Chocolate Lava Cake,"Classic pizza with fresh mozzarella, tomatoes, and basil",15.72,Beverage,242,,,,,Available
+313,Caesar Salad,Warm chocolate cake with a molten chocolate center,12.93,Appetizer,206,Vanilla Ice Cream,0.54,Chicken Strips,1.79,Available
+314,Margherita Pizza,Creamy matcha tea blend with milk and ice,15.32,Appetizer,502,Almond Milk,0.93,,,Not Available
+315,Iced Matcha Latte,A hearty burger with a plant-based patty and fresh toppings,19.68,Main Course,587,,,Almond Milk,2.69,Not Available
+316,Veggie Burger,Creamy matcha tea blend with milk and ice,14.62,Main Course,767,,,Chicken Strips,1.41,Not Available
+317,Margherita Pizza,A hearty burger with a plant-based patty and fresh toppings,16.55,Dessert,314,Vanilla Ice Cream,2.54,,,Available
+318,Chocolate Lava Cake,A hearty burger with a plant-based patty and fresh toppings,15.35,Appetizer,399,,,,,Available
+319,Margherita Pizza,"Romaine lettuce with Caesar dressing, croutons, and parmesan",11.87,Main Course,367,,,,,Available
+320,Caesar Salad,"Romaine lettuce with Caesar dressing, croutons, and parmesan",8.5,Main Course,186,Almond Milk,2.36,,,Not Available
+321,Veggie Burger,"Romaine lettuce with Caesar dressing, croutons, and parmesan",11.91,Appetizer,326,,,Vanilla Ice Cream,2.57,Available
+322,Veggie Burger,"Romaine lettuce with Caesar dressing, croutons, and parmesan",19.05,Main Course,719,,,,,Available
+323,Chocolate Lava Cake,Warm chocolate cake with a molten chocolate center,15.75,Dessert,232,,,Almond Milk,1.21,Available
+324,Margherita Pizza,A hearty burger with a plant-based patty and fresh toppings,14.58,Main Course,258,Chicken Strips,2.93,,,Not Available
+325,Caesar Salad,"Romaine lettuce with Caesar dressing, croutons, and parmesan",12.45,Main Course,181,Vanilla Ice Cream,2.54,Avocado,1.14,Available
+326,Iced Matcha Latte,"Romaine lettuce with Caesar dressing, croutons, and parmesan",15.5,Beverage,104,,,,,Available
+327,Margherita Pizza,Creamy matcha tea blend with milk and ice,6.28,Main Course,407,Extra Cheese,1.98,Extra Cheese,1.44,Not Available
+328,Chocolate Lava Cake,A hearty burger with a plant-based patty and fresh toppings,12.72,Main Course,312,,,Chicken Strips,0.79,Available
+329,Iced Matcha Latte,Warm chocolate cake with a molten chocolate center,11.2,Dessert,375,Extra Cheese,2.25,,,Not Available
+330,Chocolate Lava Cake,"Romaine lettuce with Caesar dressing, croutons, and parmesan",9.93,Main Course,278,Avocado,0.95,,,Available
+331,Veggie Burger,Warm chocolate cake with a molten chocolate center,16.7,Beverage,419,Chicken Strips,1.59,Chicken Strips,2.3,Available
+332,Iced Matcha Latte,Warm chocolate cake with a molten chocolate center,12.64,Dessert,487,Vanilla Ice Cream,0.8,,,Not Available
+333,Caesar Salad,Creamy matcha tea blend with milk and ice,17.7,Main Course,700,,,,,Available
+334,Iced Matcha Latte,Creamy matcha tea blend with milk and ice,11.51,Dessert,464,,,Extra Cheese,2.15,Not Available
+335,Iced Matcha Latte,A hearty burger with a plant-based patty and fresh toppings,17.7,Appetizer,404,Chicken Strips,2.61,,,Not Available
+336,Margherita Pizza,A hearty burger with a plant-based patty and fresh toppings,15.73,Appetizer,492,,,,,Available
+337,Iced Matcha Latte,Creamy matcha tea blend with milk and ice,12.18,Beverage,312,,,,,Not Available
+338,Iced Matcha Latte,Warm chocolate cake with a molten chocolate center,7.91,Beverage,475,,,Avocado,1.43,Not Available
+339,Chocolate Lava Cake,Creamy matcha tea blend with milk and ice,14.04,Dessert,602,Almond Milk,1.91,Extra Cheese,0.5,Available
+340,Margherita Pizza,Creamy matcha tea blend with milk and ice,8.45,Main Course,623,Vanilla Ice Cream,1.24,Extra Cheese,2.68,Not Available
+341,Chocolate Lava Cake,"Romaine lettuce with Caesar dressing, croutons, and parmesan",6.28,Dessert,391,,,Chicken Strips,2.72,Available
+342,Caesar Salad,Creamy matcha tea blend with milk and ice,5.37,Main Course,449,,,,,Available
+343,Iced Matcha Latte,Creamy matcha tea blend with milk and ice,8.33,Main Course,227,Almond Milk,1.54,Extra Cheese,1.58,Not Available
+344,Iced Matcha Latte,A hearty burger with a plant-based patty and fresh toppings,11.03,Dessert,272,,,Chicken Strips,2.12,Not Available
+345,Veggie Burger,"Classic pizza with fresh mozzarella, tomatoes, and basil",18.52,Dessert,685,Avocado,0.56,,,Available
+346,Iced Matcha Latte,"Romaine lettuce with Caesar dressing, croutons, and parmesan",15.36,Beverage,224,,,,,Available
+347,Caesar Salad,"Classic pizza with fresh mozzarella, tomatoes, and basil",8.8,Main Course,436,,,,,Not Available
+348,Chocolate Lava Cake,"Romaine lettuce with Caesar dressing, croutons, and parmesan",14.17,Main Course,419,,,,,Not Available
+349,Margherita Pizza,A hearty burger with a plant-based patty and fresh toppings,8.72,Dessert,507,,,Extra Cheese,0.81,Not Available
+350,Margherita Pizza,"Romaine lettuce with Caesar dressing, croutons, and parmesan",5.43,Beverage,474,,,Vanilla Ice Cream,1.0,Not Available
+351,Veggie Burger,Creamy matcha tea blend with milk and ice,9.45,Appetizer,666,Chicken Strips,2.14,Avocado,1.63,Not Available
+352,Chocolate Lava Cake,"Classic pizza with fresh mozzarella, tomatoes, and basil",14.78,Main Course,611,Extra Cheese,0.83,Vanilla Ice Cream,2.63,Available
+353,Iced Matcha Latte,"Classic pizza with fresh mozzarella, tomatoes, and basil",16.93,Beverage,754,Vanilla Ice Cream,1.97,,,Available
+354,Chocolate Lava Cake,"Classic pizza with fresh mozzarella, tomatoes, and basil",7.85,Beverage,584,Vanilla Ice Cream,1.46,,,Not Available
+355,Margherita Pizza,"Romaine lettuce with Caesar dressing, croutons, and parmesan",6.49,Main Course,661,Almond Milk,1.8,,,Not Available
+356,Caesar Salad,Warm chocolate cake with a molten chocolate center,12.56,Beverage,189,,,Avocado,1.0,Not Available
+357,Veggie Burger,Creamy matcha tea blend with milk and ice,16.97,Main Course,117,,,,,Not Available
+358,Margherita Pizza,"Classic pizza with fresh mozzarella, tomatoes, and basil",14.4,Dessert,275,,,,,Not Available
+359,Chocolate Lava Cake,Warm chocolate cake with a molten chocolate center,16.75,Main Course,121,Vanilla Ice Cream,1.5,,,Not Available
+360,Chocolate Lava Cake,"Romaine lettuce with Caesar dressing, croutons, and parmesan",5.87,Beverage,780,Vanilla Ice Cream,2.19,,,Not Available
+361,Veggie Burger,Warm chocolate cake with a molten chocolate center,10.06,Main Course,431,Chicken Strips,1.03,Avocado,1.52,Available
+362,Veggie Burger,Creamy matcha tea blend with milk and ice,18.82,Beverage,372,,,,,Not Available
+363,Iced Matcha Latte,Warm chocolate cake with a molten chocolate center,13.19,Beverage,599,Almond Milk,0.78,Vanilla Ice Cream,0.66,Available
+364,Caesar Salad,"Romaine lettuce with Caesar dressing, croutons, and parmesan",15.33,Appetizer,101,,,Extra Cheese,0.92,Available
+365,Margherita Pizza,A hearty burger with a plant-based patty and fresh toppings,10.99,Main Course,295,Extra Cheese,2.7,,,Not Available
+366,Veggie Burger,"Romaine lettuce with Caesar dressing, croutons, and parmesan",12.4,Main Course,358,Chicken Strips,1.56,,,Not Available
+367,Iced Matcha Latte,"Classic pizza with fresh mozzarella, tomatoes, and basil",7.34,Beverage,554,Avocado,1.7,Extra Cheese,1.99,Not Available
+368,Veggie Burger,"Romaine lettuce with Caesar dressing, croutons, and parmesan",12.91,Dessert,783,Avocado,2.89,Extra Cheese,2.51,Not Available
+369,Chocolate Lava Cake,Creamy matcha tea blend with milk and ice,9.19,Appetizer,693,,,,,Available
+370,Margherita Pizza,A hearty burger with a plant-based patty and fresh toppings,14.33,Main Course,197,Extra Cheese,2.0,,,Available
+371,Margherita Pizza,"Classic pizza with fresh mozzarella, tomatoes, and basil",12.64,Dessert,312,Almond Milk,1.57,,,Not Available
+372,Caesar Salad,Warm chocolate cake with a molten chocolate center,18.98,Appetizer,735,Extra Cheese,0.87,Extra Cheese,2.03,Available
+373,Veggie Burger,"Romaine lettuce with Caesar dressing, croutons, and parmesan",11.65,Beverage,443,,,,,Available
+374,Veggie Burger,"Classic pizza with fresh mozzarella, tomatoes, and basil",14.06,Beverage,283,Almond Milk,2.58,Avocado,0.53,Not Available
+375,Caesar Salad,Creamy matcha tea blend with milk and ice,12.38,Appetizer,534,,,Avocado,2.38,Not Available
+376,Chocolate Lava Cake,Warm chocolate cake with a molten chocolate center,11.34,Main Course,339,Avocado,1.12,,,Available
+377,Iced Matcha Latte,"Romaine lettuce with Caesar dressing, croutons, and parmesan",18.54,Appetizer,290,,,Extra Cheese,0.8,Available
+378,Iced Matcha Latte,Creamy matcha tea blend with milk and ice,7.66,Beverage,125,Almond Milk,2.77,,,Not Available
+379,Margherita Pizza,A hearty burger with a plant-based patty and fresh toppings,17.17,Appetizer,105,Chicken Strips,1.65,Vanilla Ice Cream,2.97,Available
+380,Margherita Pizza,A hearty burger with a plant-based patty and fresh toppings,5.33,Appetizer,684,,,,,Not Available
+381,Iced Matcha Latte,"Classic pizza with fresh mozzarella, tomatoes, and basil",15.99,Appetizer,617,,,Almond Milk,1.53,Not Available
+382,Veggie Burger,Creamy matcha tea blend with milk and ice,14.29,Main Course,501,Chicken Strips,1.41,,,Available
+383,Veggie Burger,Warm chocolate cake with a molten chocolate center,12.57,Beverage,515,,,Extra Cheese,2.57,Available
+384,Veggie Burger,"Romaine lettuce with Caesar dressing, croutons, and parmesan",16.06,Dessert,520,,,,,Available
+385,Margherita Pizza,"Classic pizza with fresh mozzarella, tomatoes, and basil",10.16,Dessert,543,,,Almond Milk,2.62,Not Available
+386,Margherita Pizza,A hearty burger with a plant-based patty and fresh toppings,9.39,Main Course,722,Avocado,0.76,,,Not Available
+387,Margherita Pizza,A hearty burger with a plant-based patty and fresh toppings,15.69,Beverage,603,,,,,Available
+388,Chocolate Lava Cake,Warm chocolate cake with a molten chocolate center,15.91,Beverage,549,Avocado,1.28,Chicken Strips,1.78,Available
+389,Chocolate Lava Cake,"Classic pizza with fresh mozzarella, tomatoes, and basil",19.39,Main Course,540,,,,,Not Available
+390,Caesar Salad,Warm chocolate cake with a molten chocolate center,9.59,Main Course,379,Avocado,1.94,Avocado,0.65,Available
+391,Iced Matcha Latte,Creamy matcha tea blend with milk and ice,6.45,Appetizer,444,Vanilla Ice Cream,2.11,,,Available
+392,Iced Matcha Latte,Warm chocolate cake with a molten chocolate center,9.94,Main Course,491,Almond Milk,0.64,,,Not Available
+393,Iced Matcha Latte,"Classic pizza with fresh mozzarella, tomatoes, and basil",8.08,Main Course,309,Avocado,1.05,,,Not Available
+394,Caesar Salad,Warm chocolate cake with a molten chocolate center,5.78,Beverage,645,,,Almond Milk,2.64,Available
+395,Iced Matcha Latte,"Romaine lettuce with Caesar dressing, croutons, and parmesan",14.75,Main Course,189,,,Extra Cheese,2.27,Not Available
+396,Caesar Salad,"Romaine lettuce with Caesar dressing, croutons, and parmesan",18.84,Beverage,389,,,Chicken Strips,0.83,Not Available
+397,Margherita Pizza,Creamy matcha tea blend with milk and ice,16.34,Main Course,329,,,Avocado,0.99,Available
+398,Iced Matcha Latte,"Romaine lettuce with Caesar dressing, croutons, and parmesan",11.38,Dessert,562,,,,,Not Available
+399,Margherita Pizza,"Romaine lettuce with Caesar dressing, croutons, and parmesan",13.64,Main Course,427,,,Vanilla Ice Cream,0.61,Not Available
+400,Caesar Salad,Creamy matcha tea blend with milk and ice,14.13,Beverage,164,Chicken Strips,2.15,,,Not Available
+401,Iced Matcha Latte,Creamy matcha tea blend with milk and ice,6.69,Beverage,416,,,,,Available
+402,Caesar Salad,Creamy matcha tea blend with milk and ice,18.6,Main Course,230,,,,,Not Available
+403,Iced Matcha Latte,Warm chocolate cake with a molten chocolate center,14.79,Main Course,579,Extra Cheese,1.75,Chicken Strips,1.55,Not Available
+404,Chocolate Lava Cake,"Romaine lettuce with Caesar dressing, croutons, and parmesan",7.47,Appetizer,523,Avocado,1.68,Vanilla Ice Cream,2.37,Available
+405,Iced Matcha Latte,Creamy matcha tea blend with milk and ice,10.58,Main Course,425,,,Avocado,1.78,Not Available
+406,Iced Matcha Latte,"Classic pizza with fresh mozzarella, tomatoes, and basil",15.23,Appetizer,773,,,,,Not Available
+407,Chocolate Lava Cake,"Romaine lettuce with Caesar dressing, croutons, and parmesan",6.58,Main Course,139,Extra Cheese,2.74,Extra Cheese,2.32,Available
+408,Iced Matcha Latte,Warm chocolate cake with a molten chocolate center,13.24,Beverage,561,Chicken Strips,1.61,,,Not Available
+409,Veggie Burger,Warm chocolate cake with a molten chocolate center,16.22,Main Course,263,Extra Cheese,0.63,,,Not Available
+410,Chocolate Lava Cake,Creamy matcha tea blend with milk and ice,10.06,Main Course,288,,,Chicken Strips,2.87,Not Available
+411,Iced Matcha Latte,Warm chocolate cake with a molten chocolate center,17.38,Main Course,513,,,,,Available
+412,Chocolate Lava Cake,Creamy matcha tea blend with milk and ice,10.35,Appetizer,394,,,,,Not Available
+413,Veggie Burger,"Classic pizza with fresh mozzarella, tomatoes, and basil",17.26,Main Course,393,,,,,Not Available
+414,Veggie Burger,Creamy matcha tea blend with milk and ice,6.7,Beverage,183,Extra Cheese,1.17,Almond Milk,2.68,Available
+415,Iced Matcha Latte,"Classic pizza with fresh mozzarella, tomatoes, and basil",14.82,Main Course,286,Vanilla Ice Cream,2.75,,,Not Available
+416,Veggie Burger,A hearty burger with a plant-based patty and fresh toppings,10.41,Appetizer,277,,,Avocado,1.57,Available
+417,Margherita Pizza,"Romaine lettuce with Caesar dressing, croutons, and parmesan",15.5,Main Course,563,Vanilla Ice Cream,2.67,,,Available
+418,Chocolate Lava Cake,Warm chocolate cake with a molten chocolate center,5.59,Main Course,613,,,Vanilla Ice Cream,2.41,Available
+419,Iced Matcha Latte,Warm chocolate cake with a molten chocolate center,15.07,Appetizer,188,,,Almond Milk,2.11,Not Available
+420,Veggie Burger,"Romaine lettuce with Caesar dressing, croutons, and parmesan",14.3,Appetizer,490,,,Chicken Strips,1.25,Available
+421,Iced Matcha Latte,Creamy matcha tea blend with milk and ice,14.08,Dessert,525,Avocado,1.26,,,Available
+422,Iced Matcha Latte,"Romaine lettuce with Caesar dressing, croutons, and parmesan",13.92,Appetizer,520,,,Avocado,1.72,Not Available
+423,Margherita Pizza,Creamy matcha tea blend with milk and ice,18.1,Main Course,314,,,Almond Milk,0.9,Not Available
+424,Iced Matcha Latte,Warm chocolate cake with a molten chocolate center,16.09,Main Course,674,Extra Cheese,2.61,,,Available
+425,Margherita Pizza,"Classic pizza with fresh mozzarella, tomatoes, and basil",7.96,Main Course,473,Avocado,0.78,Extra Cheese,1.89,Available
+426,Caesar Salad,Warm chocolate cake with a molten chocolate center,5.08,Beverage,497,,,Vanilla Ice Cream,2.85,Not Available
+427,Margherita Pizza,"Romaine lettuce with Caesar dressing, croutons, and parmesan",19.97,Dessert,537,Almond Milk,2.84,Avocado,1.0,Available
+428,Caesar Salad,Creamy matcha tea blend with milk and ice,7.82,Main Course,195,,,,,Not Available
+429,Chocolate Lava Cake,Creamy matcha tea blend with milk and ice,17.42,Appetizer,640,,,,,Available
+430,Caesar Salad,"Classic pizza with fresh mozzarella, tomatoes, and basil",6.3,Main Course,527,Almond Milk,1.52,Extra Cheese,0.58,Not Available
+431,Veggie Burger,A hearty burger with a plant-based patty and fresh toppings,11.53,Main Course,543,Extra Cheese,0.62,Almond Milk,1.59,Available
+432,Iced Matcha Latte,A hearty burger with a plant-based patty and fresh toppings,12.89,Main Course,423,Avocado,2.07,,,Available
+433,Veggie Burger,Creamy matcha tea blend with milk and ice,13.64,Main Course,353,,,Vanilla Ice Cream,1.46,Available
+434,Veggie Burger,Creamy matcha tea blend with milk and ice,8.73,Main Course,741,Extra Cheese,2.2,Vanilla Ice Cream,0.83,Available
+435,Caesar Salad,"Romaine lettuce with Caesar dressing, croutons, and parmesan",15.4,Appetizer,265,Vanilla Ice Cream,1.01,,,Not Available
+436,Margherita Pizza,Warm chocolate cake with a molten chocolate center,8.4,Beverage,728,Chicken Strips,2.97,,,Available
+437,Chocolate Lava Cake,A hearty burger with a plant-based patty and fresh toppings,15.89,Beverage,418,Avocado,2.37,Extra Cheese,0.52,Available
+438,Margherita Pizza,Creamy matcha tea blend with milk and ice,8.91,Main Course,296,Chicken Strips,2.77,Almond Milk,2.1,Not Available
+439,Veggie Burger,Creamy matcha tea blend with milk and ice,6.48,Dessert,661,,,Avocado,1.45,Not Available
+440,Chocolate Lava Cake,Warm chocolate cake with a molten chocolate center,11.68,Beverage,784,,,,,Not Available
+441,Iced Matcha Latte,A hearty burger with a plant-based patty and fresh toppings,16.68,Dessert,305,Almond Milk,2.92,,,Available
+442,Margherita Pizza,"Romaine lettuce with Caesar dressing, croutons, and parmesan",8.74,Main Course,245,,,,,Not Available
+443,Chocolate Lava Cake,"Romaine lettuce with Caesar dressing, croutons, and parmesan",14.67,Beverage,617,,,Vanilla Ice Cream,1.93,Available
+444,Veggie Burger,"Classic pizza with fresh mozzarella, tomatoes, and basil",14.84,Main Course,660,,,Avocado,0.65,Available
+445,Iced Matcha Latte,Creamy matcha tea blend with milk and ice,18.89,Main Course,207,Chicken Strips,1.13,,,Not Available
+446,Caesar Salad,Creamy matcha tea blend with milk and ice,13.48,Main Course,545,,,Vanilla Ice Cream,1.1,Available
+447,Caesar Salad,"Romaine lettuce with Caesar dressing, croutons, and parmesan",14.27,Beverage,495,,,Almond Milk,2.22,Not Available
+448,Caesar Salad,Creamy matcha tea blend with milk and ice,7.73,Beverage,273,,,Avocado,1.7,Not Available
+449,Iced Matcha Latte,Creamy matcha tea blend with milk and ice,12.16,Appetizer,490,Almond Milk,1.09,Extra Cheese,0.69,Not Available
+450,Chocolate Lava Cake,"Romaine lettuce with Caesar dressing, croutons, and parmesan",6.57,Main Course,321,Chicken Strips,2.11,,,Available
+451,Margherita Pizza,A hearty burger with a plant-based patty and fresh toppings,5.24,Dessert,489,Vanilla Ice Cream,1.3,Chicken Strips,2.81,Available
+452,Chocolate Lava Cake,"Classic pizza with fresh mozzarella, tomatoes, and basil",9.14,Appetizer,324,Almond Milk,2.42,Chicken Strips,1.22,Available
+453,Margherita Pizza,"Romaine lettuce with Caesar dressing, croutons, and parmesan",7.93,Dessert,246,Chicken Strips,2.43,Extra Cheese,1.12,Not Available
+454,Margherita Pizza,"Classic pizza with fresh mozzarella, tomatoes, and basil",11.36,Dessert,261,,,,,Not Available
+455,Iced Matcha Latte,A hearty burger with a plant-based patty and fresh toppings,14.85,Main Course,229,,,Almond Milk,1.38,Not Available
+456,Margherita Pizza,"Classic pizza with fresh mozzarella, tomatoes, and basil",11.9,Beverage,643,Avocado,2.79,Vanilla Ice Cream,1.74,Available
+457,Chocolate Lava Cake,"Romaine lettuce with Caesar dressing, croutons, and parmesan",15.95,Appetizer,770,,,,,Available
+458,Caesar Salad,"Romaine lettuce with Caesar dressing, croutons, and parmesan",16.21,Dessert,735,,,,,Available
+459,Caesar Salad,A hearty burger with a plant-based patty and fresh toppings,19.46,Main Course,310,,,,,Available
+460,Chocolate Lava Cake,"Romaine lettuce with Caesar dressing, croutons, and parmesan",7.51,Appetizer,492,,,Vanilla Ice Cream,2.73,Not Available
+461,Iced Matcha Latte,A hearty burger with a plant-based patty and fresh toppings,7.81,Appetizer,286,Chicken Strips,2.63,Chicken Strips,1.99,Available
+462,Chocolate Lava Cake,A hearty burger with a plant-based patty and fresh toppings,9.7,Main Course,373,Almond Milk,2.7,,,Available
+463,Iced Matcha Latte,"Romaine lettuce with Caesar dressing, croutons, and parmesan",12.58,Main Course,284,,,,,Not Available
+464,Chocolate Lava Cake,"Classic pizza with fresh mozzarella, tomatoes, and basil",14.18,Beverage,690,,,Chicken Strips,2.85,Available
+465,Margherita Pizza,Warm chocolate cake with a molten chocolate center,18.58,Appetizer,114,Vanilla Ice Cream,1.13,,,Available
+466,Caesar Salad,"Classic pizza with fresh mozzarella, tomatoes, and basil",15.83,Main Course,754,,,,,Available
+467,Iced Matcha Latte,"Romaine lettuce with Caesar dressing, croutons, and parmesan",13.68,Appetizer,332,,,,,Available
+468,Veggie Burger,Warm chocolate cake with a molten chocolate center,6.88,Main Course,247,Extra Cheese,2.48,,,Not Available
+469,Margherita Pizza,"Classic pizza with fresh mozzarella, tomatoes, and basil",16.49,Dessert,464,Avocado,2.74,,,Not Available
+470,Caesar Salad,A hearty burger with a plant-based patty and fresh toppings,13.61,Dessert,383,,,,,Available
+471,Margherita Pizza,"Romaine lettuce with Caesar dressing, croutons, and parmesan",15.3,Dessert,165,,,Avocado,1.67,Not Available
+472,Iced Matcha Latte,Creamy matcha tea blend with milk and ice,9.4,Main Course,104,,,,,Available
+473,Margherita Pizza,"Classic pizza with fresh mozzarella, tomatoes, and basil",15.91,Beverage,303,,,,,Available
+474,Caesar Salad,A hearty burger with a plant-based patty and fresh toppings,13.13,Dessert,478,Avocado,2.28,,,Not Available
+475,Iced Matcha Latte,Creamy matcha tea blend with milk and ice,9.21,Beverage,326,,,,,Not Available
+476,Margherita Pizza,"Romaine lettuce with Caesar dressing, croutons, and parmesan",19.22,Main Course,734,,,,,Not Available
+477,Caesar Salad,Creamy matcha tea blend with milk and ice,16.04,Appetizer,294,Vanilla Ice Cream,2.5,Avocado,1.95,Available
+478,Margherita Pizza,"Classic pizza with fresh mozzarella, tomatoes, and basil",18.8,Beverage,597,,,Vanilla Ice Cream,1.58,Available
+479,Iced Matcha Latte,Creamy matcha tea blend with milk and ice,19.32,Appetizer,697,,,,,Available
+480,Margherita Pizza,"Classic pizza with fresh mozzarella, tomatoes, and basil",6.79,Main Course,321,,,Chicken Strips,2.17,Not Available
+481,Chocolate Lava Cake,A hearty burger with a plant-based patty and fresh toppings,6.17,Main Course,657,Extra Cheese,2.27,,,Not Available
+482,Iced Matcha Latte,A hearty burger with a plant-based patty and fresh toppings,9.31,Dessert,632,,,,,Not Available
+483,Caesar Salad,A hearty burger with a plant-based patty and fresh toppings,5.31,Appetizer,124,,,Chicken Strips,2.45,Available
+484,Caesar Salad,"Classic pizza with fresh mozzarella, tomatoes, and basil",5.85,Main Course,188,Almond Milk,1.21,,,Not Available
+485,Iced Matcha Latte,"Classic pizza with fresh mozzarella, tomatoes, and basil",13.36,Main Course,267,Avocado,2.68,Almond Milk,2.59,Available
+486,Caesar Salad,"Classic pizza with fresh mozzarella, tomatoes, and basil",9.27,Beverage,331,,,Avocado,1.49,Available
+487,Veggie Burger,Warm chocolate cake with a molten chocolate center,11.23,Appetizer,793,Avocado,1.46,,,Not Available
+488,Iced Matcha Latte,"Romaine lettuce with Caesar dressing, croutons, and parmesan",15.31,Main Course,381,Vanilla Ice Cream,1.94,,,Not Available
+489,Chocolate Lava Cake,A hearty burger with a plant-based patty and fresh toppings,7.25,Beverage,619,,,,,Not Available
+490,Iced Matcha Latte,Creamy matcha tea blend with milk and ice,13.55,Appetizer,188,Chicken Strips,2.7,Chicken Strips,2.17,Available
+491,Caesar Salad,Warm chocolate cake with a molten chocolate center,8.52,Beverage,636,Vanilla Ice Cream,1.36,,,Available
+492,Chocolate Lava Cake,Creamy matcha tea blend with milk and ice,13.17,Dessert,217,,,Extra Cheese,1.12,Available
+493,Iced Matcha Latte,Creamy matcha tea blend with milk and ice,7.57,Dessert,710,Extra Cheese,0.93,,,Available
+494,Veggie Burger,"Classic pizza with fresh mozzarella, tomatoes, and basil",13.77,Dessert,307,,,,,Available
+495,Chocolate Lava Cake,A hearty burger with a plant-based patty and fresh toppings,15.31,Beverage,358,,,Almond Milk,2.21,Not Available
+496,Margherita Pizza,"Romaine lettuce with Caesar dressing, croutons, and parmesan",7.84,Main Course,124,Extra Cheese,2.68,,,Not Available
+497,Margherita Pizza,A hearty burger with a plant-based patty and fresh toppings,16.72,Appetizer,344,Avocado,2.45,Chicken Strips,0.73,Available
+498,Chocolate Lava Cake,"Classic pizza with fresh mozzarella, tomatoes, and basil",14.4,Beverage,674,Extra Cheese,0.78,Almond Milk,2.0,Available
+499,Margherita Pizza,A hearty burger with a plant-based patty and fresh toppings,13.18,Main Course,294,,,Extra Cheese,0.81,Not Available
+500,Margherita Pizza,"Classic pizza with fresh mozzarella, tomatoes, and basil",6.35,Main Course,502,,,,,Not Available
+501,Veggie Burger,"Romaine lettuce with Caesar dressing, croutons, and parmesan",6.72,Main Course,671,,,Vanilla Ice Cream,0.69,Available
+502,Caesar Salad,"Romaine lettuce with Caesar dressing, croutons, and parmesan",18.02,Main Course,525,,,,,Not Available
+503,Chocolate Lava Cake,"Romaine lettuce with Caesar dressing, croutons, and parmesan",17.86,Beverage,311,Avocado,0.56,Avocado,1.4,Not Available
+504,Chocolate Lava Cake,A hearty burger with a plant-based patty and fresh toppings,7.7,Beverage,577,Avocado,1.56,Avocado,2.33,Available
+505,Iced Matcha Latte,"Romaine lettuce with Caesar dressing, croutons, and parmesan",6.24,Appetizer,247,,,Avocado,2.45,Available
+506,Veggie Burger,"Classic pizza with fresh mozzarella, tomatoes, and basil",11.35,Beverage,453,,,Almond Milk,1.33,Available
+507,Iced Matcha Latte,"Classic pizza with fresh mozzarella, tomatoes, and basil",17.2,Appetizer,693,,,Extra Cheese,0.56,Available
+508,Caesar Salad,"Romaine lettuce with Caesar dressing, croutons, and parmesan",15.27,Beverage,362,,,Vanilla Ice Cream,2.12,Available
+509,Iced Matcha Latte,Creamy matcha tea blend with milk and ice,12.92,Main Course,434,,,,,Not Available
+510,Chocolate Lava Cake,Creamy matcha tea blend with milk and ice,14.98,Dessert,728,Extra Cheese,2.93,Avocado,1.3,Not Available
+511,Caesar Salad,Creamy matcha tea blend with milk and ice,11.28,Main Course,348,,,,,Not Available
+512,Chocolate Lava Cake,A hearty burger with a plant-based patty and fresh toppings,19.59,Main Course,608,Vanilla Ice Cream,2.4,Avocado,1.35,Available
+513,Iced Matcha Latte,"Classic pizza with fresh mozzarella, tomatoes, and basil",13.26,Main Course,108,Almond Milk,2.94,Avocado,2.19,Not Available
+514,Margherita Pizza,"Romaine lettuce with Caesar dressing, croutons, and parmesan",11.28,Main Course,376,,,Extra Cheese,0.8,Available
+515,Margherita Pizza,Warm chocolate cake with a molten chocolate center,18.55,Main Course,692,Extra Cheese,1.41,Almond Milk,0.85,Not Available
+516,Caesar Salad,Creamy matcha tea blend with milk and ice,13.59,Dessert,339,Extra Cheese,1.56,,,Available
+517,Iced Matcha Latte,Creamy matcha tea blend with milk and ice,12.65,Appetizer,593,Avocado,1.4,Avocado,1.25,Not Available
+518,Chocolate Lava Cake,Creamy matcha tea blend with milk and ice,17.27,Main Course,243,,,,,Available
+519,Caesar Salad,Warm chocolate cake with a molten chocolate center,11.52,Beverage,245,,,Chicken Strips,1.11,Not Available
+520,Margherita Pizza,Creamy matcha tea blend with milk and ice,12.78,Appetizer,435,Avocado,2.62,,,Not Available
+521,Caesar Salad,"Romaine lettuce with Caesar dressing, croutons, and parmesan",14.67,Appetizer,325,,,Avocado,1.96,Not Available
+522,Veggie Burger,Creamy matcha tea blend with milk and ice,6.63,Main Course,772,Extra Cheese,0.6,Extra Cheese,2.03,Available
+523,Margherita Pizza,A hearty burger with a plant-based patty and fresh toppings,18.0,Main Course,544,,,Vanilla Ice Cream,1.46,Not Available
+524,Margherita Pizza,Creamy matcha tea blend with milk and ice,16.93,Beverage,691,,,Vanilla Ice Cream,0.76,Not Available
+525,Veggie Burger,Creamy matcha tea blend with milk and ice,14.19,Dessert,379,Avocado,2.58,,,Available
+526,Chocolate Lava Cake,A hearty burger with a plant-based patty and fresh toppings,13.27,Dessert,403,Chicken Strips,2.42,Avocado,2.93,Not Available
+527,Chocolate Lava Cake,"Romaine lettuce with Caesar dressing, croutons, and parmesan",15.79,Main Course,530,Almond Milk,0.93,Avocado,2.08,Available
+528,Margherita Pizza,A hearty burger with a plant-based patty and fresh toppings,14.16,Appetizer,606,,,,,Available
+529,Margherita Pizza,Warm chocolate cake with a molten chocolate center,17.03,Main Course,104,Almond Milk,2.8,,,Available
+530,Caesar Salad,A hearty burger with a plant-based patty and fresh toppings,8.7,Main Course,235,,,,,Not Available
+531,Chocolate Lava Cake,Warm chocolate cake with a molten chocolate center,10.72,Dessert,264,,,Chicken Strips,2.16,Available
+532,Caesar Salad,A hearty burger with a plant-based patty and fresh toppings,8.26,Beverage,614,Avocado,2.21,Vanilla Ice Cream,0.62,Available
+533,Veggie Burger,Creamy matcha tea blend with milk and ice,12.45,Dessert,461,,,,,Not Available
+534,Margherita Pizza,Warm chocolate cake with a molten chocolate center,6.24,Main Course,361,,,Extra Cheese,1.64,Not Available
+535,Veggie Burger,A hearty burger with a plant-based patty and fresh toppings,15.69,Dessert,515,,,,,Available
+536,Caesar Salad,Creamy matcha tea blend with milk and ice,11.45,Appetizer,194,Avocado,2.5,,,Available
+537,Iced Matcha Latte,A hearty burger with a plant-based patty and fresh toppings,14.84,Dessert,207,,,Almond Milk,1.49,Not Available
+538,Margherita Pizza,Creamy matcha tea blend with milk and ice,15.07,Appetizer,351,Avocado,0.51,Chicken Strips,0.78,Not Available
+539,Chocolate Lava Cake,"Romaine lettuce with Caesar dressing, croutons, and parmesan",12.21,Appetizer,743,,,Almond Milk,2.01,Not Available
+540,Caesar Salad,"Classic pizza with fresh mozzarella, tomatoes, and basil",10.55,Beverage,627,Extra Cheese,2.16,Vanilla Ice Cream,2.46,Available
+541,Iced Matcha Latte,Creamy matcha tea blend with milk and ice,12.35,Main Course,406,Chicken Strips,2.81,Avocado,2.87,Not Available
+542,Veggie Burger,"Romaine lettuce with Caesar dressing, croutons, and parmesan",10.17,Main Course,140,Vanilla Ice Cream,2.35,Extra Cheese,1.17,Available
+543,Veggie Burger,A hearty burger with a plant-based patty and fresh toppings,14.04,Main Course,265,,,,,Available
+544,Iced Matcha Latte,Warm chocolate cake with a molten chocolate center,15.02,Main Course,702,,,Chicken Strips,2.72,Available
+545,Caesar Salad,Warm chocolate cake with a molten chocolate center,13.15,Dessert,365,,,Vanilla Ice Cream,2.42,Available
+546,Chocolate Lava Cake,Warm chocolate cake with a molten chocolate center,9.92,Main Course,426,,,Avocado,2.43,Not Available
+547,Caesar Salad,A hearty burger with a plant-based patty and fresh toppings,11.95,Dessert,659,,,Almond Milk,2.61,Not Available
+548,Chocolate Lava Cake,"Romaine lettuce with Caesar dressing, croutons, and parmesan",11.27,Appetizer,199,,,,,Available
+549,Chocolate Lava Cake,"Classic pizza with fresh mozzarella, tomatoes, and basil",7.1,Beverage,590,Vanilla Ice Cream,1.54,Avocado,2.53,Not Available
+550,Chocolate Lava Cake,Creamy matcha tea blend with milk and ice,14.42,Main Course,573,,,Chicken Strips,2.71,Not Available
+551,Chocolate Lava Cake,"Classic pizza with fresh mozzarella, tomatoes, and basil",5.49,Main Course,197,,,,,Not Available
+552,Veggie Burger,Warm chocolate cake with a molten chocolate center,12.35,Appetizer,209,,,,,Available
+553,Chocolate Lava Cake,"Romaine lettuce with Caesar dressing, croutons, and parmesan",13.13,Appetizer,460,Vanilla Ice Cream,2.58,Almond Milk,2.51,Not Available
+554,Margherita Pizza,"Romaine lettuce with Caesar dressing, croutons, and parmesan",17.56,Dessert,481,Chicken Strips,1.71,Vanilla Ice Cream,1.94,Not Available
+555,Margherita Pizza,Creamy matcha tea blend with milk and ice,12.71,Main Course,294,Vanilla Ice Cream,0.55,,,Not Available
+556,Margherita Pizza,A hearty burger with a plant-based patty and fresh toppings,12.9,Dessert,779,,,,,Available
+557,Margherita Pizza,A hearty burger with a plant-based patty and fresh toppings,18.06,Appetizer,537,,,Vanilla Ice Cream,2.29,Not Available
+558,Chocolate Lava Cake,"Romaine lettuce with Caesar dressing, croutons, and parmesan",19.58,Appetizer,584,Chicken Strips,0.67,Avocado,2.9,Available
+559,Caesar Salad,Warm chocolate cake with a molten chocolate center,5.84,Dessert,249,,,Avocado,1.04,Available
+560,Chocolate Lava Cake,A hearty burger with a plant-based patty and fresh toppings,6.11,Main Course,685,Vanilla Ice Cream,0.83,,,Available
+561,Iced Matcha Latte,A hearty burger with a plant-based patty and fresh toppings,6.87,Beverage,499,Avocado,0.62,Avocado,1.99,Not Available
+562,Veggie Burger,Warm chocolate cake with a molten chocolate center,13.63,Appetizer,241,Almond Milk,0.68,,,Not Available
+563,Chocolate Lava Cake,A hearty burger with a plant-based patty and fresh toppings,12.07,Beverage,445,,,Chicken Strips,1.56,Available
+564,Caesar Salad,"Romaine lettuce with Caesar dressing, croutons, and parmesan",13.1,Appetizer,517,,,Extra Cheese,1.14,Not Available
+565,Margherita Pizza,Warm chocolate cake with a molten chocolate center,15.68,Appetizer,747,Extra Cheese,1.77,Vanilla Ice Cream,1.61,Available
+566,Veggie Burger,A hearty burger with a plant-based patty and fresh toppings,11.47,Appetizer,363,,,,,Not Available
+567,Caesar Salad,"Classic pizza with fresh mozzarella, tomatoes, and basil",9.47,Main Course,583,,,,,Not Available
+568,Veggie Burger,"Classic pizza with fresh mozzarella, tomatoes, and basil",12.71,Appetizer,537,,,Almond Milk,0.73,Available
+569,Chocolate Lava Cake,Warm chocolate cake with a molten chocolate center,13.33,Main Course,200,Almond Milk,2.34,,,Not Available
+570,Veggie Burger,A hearty burger with a plant-based patty and fresh toppings,18.39,Main Course,747,,,,,Available
+571,Caesar Salad,A hearty burger with a plant-based patty and fresh toppings,15.71,Beverage,531,,,,,Available
+572,Caesar Salad,Creamy matcha tea blend with milk and ice,14.01,Appetizer,779,Avocado,0.59,Almond Milk,2.23,Available
+573,Chocolate Lava Cake,A hearty burger with a plant-based patty and fresh toppings,19.94,Beverage,539,Almond Milk,0.95,,,Available
+574,Iced Matcha Latte,"Romaine lettuce with Caesar dressing, croutons, and parmesan",19.91,Main Course,678,,,Avocado,1.73,Not Available
+575,Veggie Burger,Creamy matcha tea blend with milk and ice,13.36,Main Course,189,,,Vanilla Ice Cream,2.69,Not Available
+576,Iced Matcha Latte,Creamy matcha tea blend with milk and ice,13.8,Main Course,402,Almond Milk,0.59,Almond Milk,1.9,Available
+577,Veggie Burger,Warm chocolate cake with a molten chocolate center,12.11,Dessert,455,,,Chicken Strips,1.17,Available
+578,Veggie Burger,Creamy matcha tea blend with milk and ice,14.04,Beverage,623,Extra Cheese,1.27,Chicken Strips,1.06,Not Available
+579,Margherita Pizza,"Classic pizza with fresh mozzarella, tomatoes, and basil",17.66,Appetizer,748,Vanilla Ice Cream,0.81,Almond Milk,2.49,Available
+580,Veggie Burger,Creamy matcha tea blend with milk and ice,14.99,Appetizer,448,Chicken Strips,2.44,Almond Milk,2.84,Not Available
+581,Margherita Pizza,Creamy matcha tea blend with milk and ice,9.76,Dessert,800,Vanilla Ice Cream,1.13,Almond Milk,1.68,Available
+582,Caesar Salad,Warm chocolate cake with a molten chocolate center,14.52,Main Course,580,Extra Cheese,0.91,,,Not Available
+583,Chocolate Lava Cake,Warm chocolate cake with a molten chocolate center,10.11,Dessert,412,Almond Milk,1.76,,,Not Available
+584,Veggie Burger,A hearty burger with a plant-based patty and fresh toppings,18.95,Main Course,793,Avocado,2.1,,,Not Available
+585,Veggie Burger,"Classic pizza with fresh mozzarella, tomatoes, and basil",11.09,Main Course,736,Avocado,1.07,,,Available
+586,Chocolate Lava Cake,Warm chocolate cake with a molten chocolate center,17.35,Main Course,441,Avocado,0.86,Extra Cheese,0.88,Not Available
+587,Iced Matcha Latte,Warm chocolate cake with a molten chocolate center,9.78,Appetizer,726,,,Avocado,1.88,Available
+588,Margherita Pizza,Warm chocolate cake with a molten chocolate center,18.08,Main Course,248,Extra Cheese,0.83,,,Available
+589,Veggie Burger,Warm chocolate cake with a molten chocolate center,14.41,Main Course,546,Chicken Strips,2.24,Chicken Strips,1.64,Available
+590,Margherita Pizza,"Classic pizza with fresh mozzarella, tomatoes, and basil",14.33,Beverage,339,Avocado,1.78,Almond Milk,1.08,Not Available
+591,Margherita Pizza,Warm chocolate cake with a molten chocolate center,10.88,Appetizer,152,,,Chicken Strips,1.26,Available
+592,Margherita Pizza,"Classic pizza with fresh mozzarella, tomatoes, and basil",8.22,Main Course,492,,,,,Not Available
+593,Margherita Pizza,Warm chocolate cake with a molten chocolate center,11.11,Main Course,492,,,,,Available
+594,Caesar Salad,Warm chocolate cake with a molten chocolate center,19.64,Main Course,762,,,,,Available
+595,Margherita Pizza,Warm chocolate cake with a molten chocolate center,14.22,Appetizer,471,,,Avocado,0.89,Available
+596,Veggie Burger,Creamy matcha tea blend with milk and ice,18.77,Dessert,603,Extra Cheese,1.22,Vanilla Ice Cream,1.4,Available
+597,Margherita Pizza,"Romaine lettuce with Caesar dressing, croutons, and parmesan",16.33,Main Course,416,Extra Cheese,1.79,Almond Milk,1.45,Not Available
+598,Chocolate Lava Cake,A hearty burger with a plant-based patty and fresh toppings,12.46,Main Course,171,Almond Milk,1.74,,,Not Available
+599,Margherita Pizza,A hearty burger with a plant-based patty and fresh toppings,16.41,Beverage,450,,,,,Available
+600,Chocolate Lava Cake,Warm chocolate cake with a molten chocolate center,18.84,Appetizer,107,,,Vanilla Ice Cream,2.06,Not Available
+601,Chocolate Lava Cake,"Classic pizza with fresh mozzarella, tomatoes, and basil",17.69,Main Course,611,,,,,Available
+602,Iced Matcha Latte,"Classic pizza with fresh mozzarella, tomatoes, and basil",17.15,Appetizer,699,,,Vanilla Ice Cream,1.5,Available
+603,Iced Matcha Latte,Warm chocolate cake with a molten chocolate center,15.5,Main Course,479,Almond Milk,2.57,Vanilla Ice Cream,2.48,Not Available
+604,Iced Matcha Latte,Creamy matcha tea blend with milk and ice,13.39,Beverage,235,Chicken Strips,2.43,Extra Cheese,2.34,Available
+605,Chocolate Lava Cake,Warm chocolate cake with a molten chocolate center,15.62,Appetizer,129,,,,,Not Available
+606,Iced Matcha Latte,Creamy matcha tea blend with milk and ice,8.76,Dessert,608,,,Vanilla Ice Cream,1.66,Available
+607,Veggie Burger,Warm chocolate cake with a molten chocolate center,7.93,Dessert,207,Avocado,2.14,Almond Milk,0.68,Not Available
+608,Margherita Pizza,A hearty burger with a plant-based patty and fresh toppings,11.98,Dessert,669,Vanilla Ice Cream,2.46,Extra Cheese,2.0,Not Available
+609,Caesar Salad,Creamy matcha tea blend with milk and ice,15.4,Main Course,276,,,,,Available
+610,Veggie Burger,A hearty burger with a plant-based patty and fresh toppings,12.7,Dessert,609,Extra Cheese,1.28,Extra Cheese,1.35,Not Available
+611,Veggie Burger,"Romaine lettuce with Caesar dressing, croutons, and parmesan",6.44,Appetizer,211,Almond Milk,2.08,,,Not Available
+612,Chocolate Lava Cake,Warm chocolate cake with a molten chocolate center,17.2,Dessert,389,,,,,Available
+613,Margherita Pizza,A hearty burger with a plant-based patty and fresh toppings,8.2,Main Course,529,Extra Cheese,2.95,,,Available
+614,Margherita Pizza,A hearty burger with a plant-based patty and fresh toppings,18.99,Main Course,427,,,Chicken Strips,2.34,Available
+615,Margherita Pizza,Warm chocolate cake with a molten chocolate center,16.82,Main Course,385,,,Vanilla Ice Cream,0.97,Available
+616,Iced Matcha Latte,"Classic pizza with fresh mozzarella, tomatoes, and basil",15.45,Appetizer,724,Vanilla Ice Cream,2.29,Avocado,2.87,Available
+617,Iced Matcha Latte,Creamy matcha tea blend with milk and ice,17.36,Beverage,111,,,Chicken Strips,2.59,Available
+618,Iced Matcha Latte,"Romaine lettuce with Caesar dressing, croutons, and parmesan",18.7,Beverage,687,,,,,Available
+619,Caesar Salad,A hearty burger with a plant-based patty and fresh toppings,19.51,Beverage,408,,,Vanilla Ice Cream,2.14,Not Available
+620,Iced Matcha Latte,Creamy matcha tea blend with milk and ice,8.74,Dessert,335,Chicken Strips,2.77,Vanilla Ice Cream,1.93,Available
+621,Veggie Burger,"Romaine lettuce with Caesar dressing, croutons, and parmesan",15.45,Dessert,309,,,,,Not Available
+622,Veggie Burger,"Classic pizza with fresh mozzarella, tomatoes, and basil",8.13,Beverage,121,Avocado,1.91,Vanilla Ice Cream,1.53,Not Available
+623,Veggie Burger,"Romaine lettuce with Caesar dressing, croutons, and parmesan",5.38,Dessert,514,Vanilla Ice Cream,1.44,Chicken Strips,1.66,Available
+624,Caesar Salad,A hearty burger with a plant-based patty and fresh toppings,16.86,Main Course,335,,,,,Not Available
+625,Margherita Pizza,A hearty burger with a plant-based patty and fresh toppings,17.09,Main Course,343,,,Chicken Strips,1.89,Available
+626,Margherita Pizza,Creamy matcha tea blend with milk and ice,6.35,Appetizer,417,Extra Cheese,1.8,,,Not Available
+627,Veggie Burger,Warm chocolate cake with a molten chocolate center,6.46,Beverage,158,,,,,Not Available
+628,Margherita Pizza,Creamy matcha tea blend with milk and ice,8.35,Beverage,239,,,Extra Cheese,1.24,Available
+629,Veggie Burger,Creamy matcha tea blend with milk and ice,16.78,Main Course,538,,,,,Available
+630,Iced Matcha Latte,"Romaine lettuce with Caesar dressing, croutons, and parmesan",16.59,Main Course,173,,,,,Not Available
+631,Iced Matcha Latte,"Classic pizza with fresh mozzarella, tomatoes, and basil",7.77,Main Course,286,Vanilla Ice Cream,2.34,Almond Milk,1.46,Not Available
+632,Margherita Pizza,A hearty burger with a plant-based patty and fresh toppings,18.06,Main Course,643,Vanilla Ice Cream,0.85,Avocado,2.01,Not Available
+633,Caesar Salad,"Classic pizza with fresh mozzarella, tomatoes, and basil",16.33,Main Course,154,,,,,Available
+634,Margherita Pizza,Warm chocolate cake with a molten chocolate center,11.73,Dessert,567,Chicken Strips,1.16,,,Not Available
+635,Caesar Salad,A hearty burger with a plant-based patty and fresh toppings,10.51,Main Course,187,,,Chicken Strips,2.03,Available
+636,Chocolate Lava Cake,Creamy matcha tea blend with milk and ice,19.69,Dessert,655,,,,,Available
+637,Margherita Pizza,"Romaine lettuce with Caesar dressing, croutons, and parmesan",7.47,Dessert,612,,,,,Available
+638,Chocolate Lava Cake,Warm chocolate cake with a molten chocolate center,19.98,Beverage,577,,,Almond Milk,1.59,Available
+639,Chocolate Lava Cake,"Classic pizza with fresh mozzarella, tomatoes, and basil",19.68,Beverage,120,,,,,Available
+640,Veggie Burger,Creamy matcha tea blend with milk and ice,12.75,Dessert,572,,,Almond Milk,1.97,Available
+641,Iced Matcha Latte,Warm chocolate cake with a molten chocolate center,18.84,Dessert,720,,,Almond Milk,2.67,Available
+642,Caesar Salad,A hearty burger with a plant-based patty and fresh toppings,7.58,Dessert,715,Almond Milk,2.1,Chicken Strips,2.57,Not Available
+643,Chocolate Lava Cake,A hearty burger with a plant-based patty and fresh toppings,8.8,Main Course,464,,,Extra Cheese,2.6,Available
+644,Caesar Salad,Warm chocolate cake with a molten chocolate center,14.3,Appetizer,561,Chicken Strips,0.65,,,Not Available
+645,Caesar Salad,"Classic pizza with fresh mozzarella, tomatoes, and basil",16.48,Appetizer,746,,,,,Available
+646,Veggie Burger,"Romaine lettuce with Caesar dressing, croutons, and parmesan",14.79,Appetizer,632,Extra Cheese,2.63,Almond Milk,2.04,Available
+647,Margherita Pizza,"Classic pizza with fresh mozzarella, tomatoes, and basil",16.02,Beverage,775,,,Extra Cheese,2.19,Not Available
+648,Caesar Salad,Warm chocolate cake with a molten chocolate center,14.01,Dessert,269,Chicken Strips,2.68,,,Available
+649,Veggie Burger,A hearty burger with a plant-based patty and fresh toppings,15.93,Main Course,513,,,,,Available
+650,Veggie Burger,Warm chocolate cake with a molten chocolate center,12.28,Dessert,688,Avocado,2.47,,,Available
+651,Margherita Pizza,Warm chocolate cake with a molten chocolate center,15.96,Dessert,301,Chicken Strips,1.56,Avocado,2.66,Not Available
+652,Chocolate Lava Cake,"Romaine lettuce with Caesar dressing, croutons, and parmesan",19.54,Main Course,397,,,,,Not Available
+653,Margherita Pizza,Warm chocolate cake with a molten chocolate center,8.83,Appetizer,192,,,,,Not Available
+654,Iced Matcha Latte,A hearty burger with a plant-based patty and fresh toppings,8.25,Main Course,533,,,Chicken Strips,0.76,Available
+655,Chocolate Lava Cake,Warm chocolate cake with a molten chocolate center,10.5,Main Course,324,Almond Milk,2.23,Vanilla Ice Cream,2.51,Available
+656,Chocolate Lava Cake,"Romaine lettuce with Caesar dressing, croutons, and parmesan",5.32,Dessert,122,Almond Milk,1.11,Vanilla Ice Cream,1.0,Not Available
+657,Chocolate Lava Cake,"Romaine lettuce with Caesar dressing, croutons, and parmesan",5.86,Main Course,128,Chicken Strips,2.27,,,Not Available
+658,Chocolate Lava Cake,Warm chocolate cake with a molten chocolate center,19.1,Main Course,136,,,,,Available
+659,Caesar Salad,Warm chocolate cake with a molten chocolate center,6.19,Beverage,783,Almond Milk,1.92,Almond Milk,2.07,Not Available
+660,Iced Matcha Latte,Warm chocolate cake with a molten chocolate center,11.24,Main Course,500,,,,,Not Available
+661,Chocolate Lava Cake,Creamy matcha tea blend with milk and ice,17.1,Beverage,488,Extra Cheese,1.73,Avocado,2.45,Available
+662,Chocolate Lava Cake,Warm chocolate cake with a molten chocolate center,16.16,Appetizer,390,,,Almond Milk,2.91,Available
+663,Veggie Burger,Creamy matcha tea blend with milk and ice,15.71,Appetizer,783,,,Extra Cheese,2.08,Not Available
+664,Caesar Salad,Creamy matcha tea blend with milk and ice,13.3,Dessert,311,Almond Milk,2.57,,,Not Available
+665,Chocolate Lava Cake,Warm chocolate cake with a molten chocolate center,5.38,Appetizer,141,,,Vanilla Ice Cream,2.33,Not Available
+666,Caesar Salad,Warm chocolate cake with a molten chocolate center,9.44,Main Course,483,Almond Milk,2.21,,,Available
+667,Veggie Burger,Warm chocolate cake with a molten chocolate center,6.73,Appetizer,562,,,,,Available
+668,Veggie Burger,"Classic pizza with fresh mozzarella, tomatoes, and basil",17.12,Dessert,361,,,Chicken Strips,2.0,Not Available
+669,Veggie Burger,Warm chocolate cake with a molten chocolate center,9.28,Main Course,467,Chicken Strips,0.73,Extra Cheese,0.94,Available
+670,Chocolate Lava Cake,"Classic pizza with fresh mozzarella, tomatoes, and basil",17.27,Appetizer,721,Avocado,1.24,,,Not Available
+671,Margherita Pizza,Creamy matcha tea blend with milk and ice,10.96,Main Course,174,,,Extra Cheese,1.22,Not Available
+672,Veggie Burger,Creamy matcha tea blend with milk and ice,17.5,Beverage,469,Avocado,2.09,,,Not Available
+673,Margherita Pizza,Warm chocolate cake with a molten chocolate center,7.1,Main Course,182,,,Almond Milk,2.85,Not Available
+674,Chocolate Lava Cake,"Romaine lettuce with Caesar dressing, croutons, and parmesan",9.62,Appetizer,156,Almond Milk,1.6,Vanilla Ice Cream,2.39,Not Available
+675,Chocolate Lava Cake,Warm chocolate cake with a molten chocolate center,18.01,Main Course,180,,,,,Not Available
+676,Chocolate Lava Cake,Warm chocolate cake with a molten chocolate center,16.96,Beverage,169,Chicken Strips,1.79,,,Available
+677,Iced Matcha Latte,Warm chocolate cake with a molten chocolate center,6.29,Beverage,165,,,,,Available
+678,Iced Matcha Latte,"Classic pizza with fresh mozzarella, tomatoes, and basil",8.52,Beverage,382,,,Almond Milk,1.75,Available
+679,Caesar Salad,Creamy matcha tea blend with milk and ice,14.78,Main Course,360,,,,,Available
+680,Iced Matcha Latte,Creamy matcha tea blend with milk and ice,13.91,Main Course,599,Chicken Strips,0.52,Vanilla Ice Cream,1.84,Available
+681,Caesar Salad,Creamy matcha tea blend with milk and ice,18.45,Appetizer,403,,,,,Available
+682,Iced Matcha Latte,"Romaine lettuce with Caesar dressing, croutons, and parmesan",5.17,Dessert,746,,,Vanilla Ice Cream,1.49,Available
+683,Veggie Burger,Creamy matcha tea blend with milk and ice,7.27,Appetizer,427,Extra Cheese,2.37,Vanilla Ice Cream,1.02,Not Available
+684,Veggie Burger,Warm chocolate cake with a molten chocolate center,17.9,Beverage,454,Vanilla Ice Cream,2.97,Extra Cheese,2.47,Not Available
+685,Iced Matcha Latte,Creamy matcha tea blend with milk and ice,13.21,Main Course,305,Vanilla Ice Cream,2.93,Vanilla Ice Cream,1.66,Available
+686,Chocolate Lava Cake,Creamy matcha tea blend with milk and ice,8.37,Dessert,488,Almond Milk,0.61,,,Available
+687,Veggie Burger,Creamy matcha tea blend with milk and ice,19.88,Dessert,736,Avocado,1.15,,,Available
+688,Caesar Salad,"Classic pizza with fresh mozzarella, tomatoes, and basil",7.22,Appetizer,500,,,,,Available
+689,Iced Matcha Latte,Creamy matcha tea blend with milk and ice,15.11,Main Course,578,,,,,Available
+690,Margherita Pizza,Warm chocolate cake with a molten chocolate center,18.34,Main Course,758,Chicken Strips,2.5,,,Not Available
+691,Chocolate Lava Cake,A hearty burger with a plant-based patty and fresh toppings,10.46,Beverage,772,Avocado,2.17,,,Not Available
+692,Chocolate Lava Cake,"Classic pizza with fresh mozzarella, tomatoes, and basil",10.33,Dessert,534,,,,,Not Available
+693,Chocolate Lava Cake,Creamy matcha tea blend with milk and ice,9.36,Beverage,789,Chicken Strips,1.54,,,Not Available
+694,Veggie Burger,Creamy matcha tea blend with milk and ice,9.21,Main Course,241,,,,,Available
+695,Chocolate Lava Cake,Creamy matcha tea blend with milk and ice,6.85,Beverage,362,Chicken Strips,1.98,,,Available
+696,Iced Matcha Latte,Warm chocolate cake with a molten chocolate center,6.41,Dessert,315,Almond Milk,0.8,,,Not Available
+697,Margherita Pizza,Warm chocolate cake with a molten chocolate center,7.48,Beverage,124,Chicken Strips,2.05,,,Not Available
+698,Margherita Pizza,"Romaine lettuce with Caesar dressing, croutons, and parmesan",16.63,Main Course,237,Almond Milk,2.85,,,Available
+699,Margherita Pizza,Creamy matcha tea blend with milk and ice,10.47,Appetizer,438,Vanilla Ice Cream,1.81,,,Not Available
+700,Margherita Pizza,Creamy matcha tea blend with milk and ice,5.18,Main Course,306,Almond Milk,0.73,,,Available
+701,Margherita Pizza,Creamy matcha tea blend with milk and ice,8.91,Main Course,676,,,,,Not Available
+702,Caesar Salad,"Romaine lettuce with Caesar dressing, croutons, and parmesan",5.06,Appetizer,341,Almond Milk,1.51,,,Not Available
+703,Veggie Burger,A hearty burger with a plant-based patty and fresh toppings,13.54,Main Course,781,,,,,Available
+704,Chocolate Lava Cake,Creamy matcha tea blend with milk and ice,5.99,Dessert,137,Extra Cheese,1.94,Extra Cheese,0.52,Available
+705,Veggie Burger,"Romaine lettuce with Caesar dressing, croutons, and parmesan",17.05,Main Course,638,,,,,Not Available
+706,Iced Matcha Latte,Warm chocolate cake with a molten chocolate center,13.17,Dessert,329,,,Vanilla Ice Cream,0.9,Not Available
+707,Veggie Burger,"Classic pizza with fresh mozzarella, tomatoes, and basil",15.0,Beverage,773,,,,,Not Available
+708,Caesar Salad,Creamy matcha tea blend with milk and ice,15.47,Dessert,604,Vanilla Ice Cream,1.11,Extra Cheese,1.22,Available
+709,Veggie Burger,Creamy matcha tea blend with milk and ice,8.8,Appetizer,576,Chicken Strips,2.36,Chicken Strips,1.65,Not Available
+710,Chocolate Lava Cake,Creamy matcha tea blend with milk and ice,8.3,Dessert,305,,,Chicken Strips,1.63,Available
+711,Chocolate Lava Cake,"Classic pizza with fresh mozzarella, tomatoes, and basil",13.86,Main Course,498,Chicken Strips,1.09,,,Available
+712,Chocolate Lava Cake,"Romaine lettuce with Caesar dressing, croutons, and parmesan",5.26,Main Course,203,Avocado,0.99,Extra Cheese,0.7,Available
+713,Veggie Burger,"Classic pizza with fresh mozzarella, tomatoes, and basil",19.28,Appetizer,636,,,,,Available
+714,Veggie Burger,Warm chocolate cake with a molten chocolate center,7.91,Appetizer,313,Extra Cheese,2.56,Almond Milk,2.78,Not Available
+715,Margherita Pizza,A hearty burger with a plant-based patty and fresh toppings,11.65,Main Course,658,Chicken Strips,0.7,,,Not Available
+716,Veggie Burger,Warm chocolate cake with a molten chocolate center,7.38,Appetizer,383,,,Vanilla Ice Cream,0.55,Available
+717,Chocolate Lava Cake,"Romaine lettuce with Caesar dressing, croutons, and parmesan",19.11,Main Course,679,Almond Milk,1.45,Almond Milk,2.19,Not Available
+718,Caesar Salad,A hearty burger with a plant-based patty and fresh toppings,11.38,Main Course,714,,,,,Available
+719,Veggie Burger,Creamy matcha tea blend with milk and ice,10.25,Dessert,672,,,Chicken Strips,2.37,Available
+720,Caesar Salad,A hearty burger with a plant-based patty and fresh toppings,17.02,Main Course,635,,,,,Available
+721,Iced Matcha Latte,"Romaine lettuce with Caesar dressing, croutons, and parmesan",6.27,Appetizer,655,Chicken Strips,2.94,,,Available
+722,Chocolate Lava Cake,Warm chocolate cake with a molten chocolate center,15.07,Dessert,717,,,Almond Milk,1.27,Not Available
+723,Caesar Salad,Creamy matcha tea blend with milk and ice,13.22,Appetizer,676,,,,,Available
+724,Margherita Pizza,Warm chocolate cake with a molten chocolate center,6.94,Beverage,751,,,Avocado,1.44,Available
+725,Veggie Burger,Creamy matcha tea blend with milk and ice,15.85,Main Course,572,Avocado,2.49,,,Available
+726,Veggie Burger,"Classic pizza with fresh mozzarella, tomatoes, and basil",11.66,Appetizer,771,,,Vanilla Ice Cream,0.61,Available
+727,Chocolate Lava Cake,"Classic pizza with fresh mozzarella, tomatoes, and basil",9.56,Beverage,106,Vanilla Ice Cream,1.71,Vanilla Ice Cream,1.06,Available
+728,Iced Matcha Latte,"Romaine lettuce with Caesar dressing, croutons, and parmesan",17.43,Beverage,123,,,,,Not Available
+729,Chocolate Lava Cake,"Romaine lettuce with Caesar dressing, croutons, and parmesan",13.07,Beverage,361,Almond Milk,0.56,Vanilla Ice Cream,2.49,Not Available
+730,Veggie Burger,"Classic pizza with fresh mozzarella, tomatoes, and basil",13.26,Main Course,120,Avocado,0.62,,,Available
+731,Veggie Burger,"Classic pizza with fresh mozzarella, tomatoes, and basil",16.54,Dessert,734,,,Avocado,2.94,Not Available
+732,Caesar Salad,Creamy matcha tea blend with milk and ice,5.72,Appetizer,301,Extra Cheese,1.49,Almond Milk,1.45,Not Available
+733,Margherita Pizza,A hearty burger with a plant-based patty and fresh toppings,8.05,Beverage,599,,,,,Not Available
+734,Iced Matcha Latte,"Classic pizza with fresh mozzarella, tomatoes, and basil",15.88,Appetizer,380,Avocado,1.41,Chicken Strips,2.56,Available
+735,Iced Matcha Latte,Creamy matcha tea blend with milk and ice,11.02,Dessert,678,,,Chicken Strips,1.51,Available
+736,Chocolate Lava Cake,"Classic pizza with fresh mozzarella, tomatoes, and basil",9.63,Dessert,583,Almond Milk,0.94,Almond Milk,0.83,Not Available
+737,Margherita Pizza,Creamy matcha tea blend with milk and ice,8.27,Dessert,206,,,Extra Cheese,2.61,Not Available
+738,Caesar Salad,Creamy matcha tea blend with milk and ice,13.86,Appetizer,577,,,Avocado,2.05,Not Available
+739,Margherita Pizza,"Romaine lettuce with Caesar dressing, croutons, and parmesan",10.0,Main Course,646,Chicken Strips,2.69,,,Available
+740,Caesar Salad,A hearty burger with a plant-based patty and fresh toppings,5.78,Main Course,641,Almond Milk,1.15,,,Not Available
+741,Caesar Salad,A hearty burger with a plant-based patty and fresh toppings,17.51,Appetizer,307,,,,,Available
+742,Veggie Burger,Warm chocolate cake with a molten chocolate center,17.8,Beverage,777,Vanilla Ice Cream,1.84,Extra Cheese,1.28,Available
+743,Veggie Burger,"Romaine lettuce with Caesar dressing, croutons, and parmesan",16.87,Beverage,582,Vanilla Ice Cream,1.34,,,Available
+744,Caesar Salad,Creamy matcha tea blend with milk and ice,18.29,Dessert,785,,,,,Not Available
+745,Margherita Pizza,"Classic pizza with fresh mozzarella, tomatoes, and basil",12.31,Beverage,520,Almond Milk,2.81,Vanilla Ice Cream,1.49,Available
+746,Veggie Burger,"Romaine lettuce with Caesar dressing, croutons, and parmesan",9.92,Appetizer,630,Extra Cheese,1.13,,,Available
+747,Veggie Burger,"Classic pizza with fresh mozzarella, tomatoes, and basil",19.06,Main Course,619,,,,,Available
+748,Iced Matcha Latte,A hearty burger with a plant-based patty and fresh toppings,18.29,Main Course,327,Chicken Strips,0.79,Extra Cheese,0.67,Available
+749,Veggie Burger,Warm chocolate cake with a molten chocolate center,7.53,Dessert,264,Extra Cheese,0.94,Vanilla Ice Cream,0.88,Not Available
+750,Iced Matcha Latte,Warm chocolate cake with a molten chocolate center,19.64,Main Course,657,Vanilla Ice Cream,2.6,,,Available
+751,Veggie Burger,"Classic pizza with fresh mozzarella, tomatoes, and basil",14.87,Dessert,133,,,,,Not Available
+752,Chocolate Lava Cake,"Romaine lettuce with Caesar dressing, croutons, and parmesan",7.22,Main Course,184,Almond Milk,2.08,Almond Milk,2.69,Available
+753,Caesar Salad,"Classic pizza with fresh mozzarella, tomatoes, and basil",12.16,Dessert,184,,,Extra Cheese,1.92,Available
+754,Margherita Pizza,A hearty burger with a plant-based patty and fresh toppings,14.75,Dessert,590,Vanilla Ice Cream,2.48,Chicken Strips,1.43,Not Available
+755,Margherita Pizza,A hearty burger with a plant-based patty and fresh toppings,16.28,Main Course,325,,,,,Not Available
+756,Chocolate Lava Cake,Creamy matcha tea blend with milk and ice,13.76,Main Course,300,,,,,Available
+757,Chocolate Lava Cake,Warm chocolate cake with a molten chocolate center,17.91,Appetizer,578,,,,,Not Available
+758,Caesar Salad,"Romaine lettuce with Caesar dressing, croutons, and parmesan",17.0,Beverage,776,,,Almond Milk,2.93,Available
+759,Iced Matcha Latte,"Classic pizza with fresh mozzarella, tomatoes, and basil",6.62,Beverage,789,Vanilla Ice Cream,0.8,,,Available
+760,Chocolate Lava Cake,"Romaine lettuce with Caesar dressing, croutons, and parmesan",18.44,Dessert,394,Avocado,2.52,,,Not Available
+761,Veggie Burger,"Romaine lettuce with Caesar dressing, croutons, and parmesan",15.73,Beverage,183,Chicken Strips,2.21,Vanilla Ice Cream,0.8,Not Available
+762,Veggie Burger,"Classic pizza with fresh mozzarella, tomatoes, and basil",10.12,Main Course,595,,,,,Not Available
+763,Caesar Salad,"Romaine lettuce with Caesar dressing, croutons, and parmesan",7.99,Appetizer,789,Chicken Strips,2.62,,,Available
+764,Iced Matcha Latte,"Classic pizza with fresh mozzarella, tomatoes, and basil",13.55,Appetizer,645,Avocado,2.65,,,Not Available
+765,Veggie Burger,Warm chocolate cake with a molten chocolate center,5.82,Appetizer,567,,,,,Available
+766,Caesar Salad,"Romaine lettuce with Caesar dressing, croutons, and parmesan",5.85,Main Course,271,Vanilla Ice Cream,0.73,Extra Cheese,2.25,Not Available
+767,Caesar Salad,Warm chocolate cake with a molten chocolate center,14.72,Main Course,207,,,Chicken Strips,1.89,Not Available
+768,Caesar Salad,A hearty burger with a plant-based patty and fresh toppings,14.43,Main Course,610,Chicken Strips,2.33,,,Not Available
+769,Chocolate Lava Cake,"Romaine lettuce with Caesar dressing, croutons, and parmesan",6.46,Dessert,691,,,,,Not Available
+770,Chocolate Lava Cake,"Romaine lettuce with Caesar dressing, croutons, and parmesan",6.94,Main Course,519,Extra Cheese,2.41,,,Not Available
+771,Caesar Salad,"Classic pizza with fresh mozzarella, tomatoes, and basil",15.41,Appetizer,316,Extra Cheese,0.97,Almond Milk,2.31,Available
+772,Chocolate Lava Cake,Warm chocolate cake with a molten chocolate center,10.03,Main Course,285,,,,,Available
+773,Veggie Burger,"Classic pizza with fresh mozzarella, tomatoes, and basil",8.52,Beverage,702,Extra Cheese,2.93,Almond Milk,1.94,Available
+774,Caesar Salad,Warm chocolate cake with a molten chocolate center,7.41,Main Course,150,,,Extra Cheese,1.74,Not Available
+775,Chocolate Lava Cake,Warm chocolate cake with a molten chocolate center,17.16,Dessert,321,,,Extra Cheese,1.21,Available
+776,Margherita Pizza,A hearty burger with a plant-based patty and fresh toppings,13.7,Main Course,652,,,Extra Cheese,1.54,Not Available
+777,Margherita Pizza,"Classic pizza with fresh mozzarella, tomatoes, and basil",11.86,Main Course,187,,,,,Not Available
+778,Veggie Burger,Creamy matcha tea blend with milk and ice,11.19,Main Course,568,,,Vanilla Ice Cream,2.45,Available
+779,Margherita Pizza,"Classic pizza with fresh mozzarella, tomatoes, and basil",6.14,Appetizer,164,Avocado,1.58,Avocado,2.7,Available
+780,Chocolate Lava Cake,"Classic pizza with fresh mozzarella, tomatoes, and basil",5.44,Appetizer,140,Extra Cheese,2.26,,,Available
+781,Veggie Burger,Creamy matcha tea blend with milk and ice,19.71,Main Course,486,,,,,Not Available
+782,Iced Matcha Latte,Creamy matcha tea blend with milk and ice,17.46,Main Course,399,Extra Cheese,2.71,Almond Milk,1.93,Available
+783,Chocolate Lava Cake,Creamy matcha tea blend with milk and ice,19.97,Appetizer,438,Vanilla Ice Cream,1.1,Vanilla Ice Cream,1.45,Not Available
+784,Caesar Salad,Warm chocolate cake with a molten chocolate center,10.69,Beverage,194,,,Avocado,1.14,Available
+785,Margherita Pizza,A hearty burger with a plant-based patty and fresh toppings,14.54,Main Course,715,Chicken Strips,1.08,Vanilla Ice Cream,0.58,Not Available
+786,Caesar Salad,Warm chocolate cake with a molten chocolate center,11.78,Dessert,600,Almond Milk,1.34,Extra Cheese,1.01,Available
+787,Veggie Burger,"Romaine lettuce with Caesar dressing, croutons, and parmesan",14.48,Dessert,481,,,Almond Milk,2.38,Not Available
+788,Margherita Pizza,Warm chocolate cake with a molten chocolate center,12.11,Beverage,567,,,,,Available
+789,Iced Matcha Latte,"Romaine lettuce with Caesar dressing, croutons, and parmesan",14.52,Main Course,300,,,,,Available
+790,Chocolate Lava Cake,"Romaine lettuce with Caesar dressing, croutons, and parmesan",5.59,Appetizer,116,Extra Cheese,1.06,,,Available
+791,Veggie Burger,"Classic pizza with fresh mozzarella, tomatoes, and basil",12.06,Main Course,583,,,Almond Milk,2.62,Not Available
+792,Caesar Salad,Warm chocolate cake with a molten chocolate center,5.59,Main Course,237,Almond Milk,1.55,,,Available
+793,Iced Matcha Latte,"Classic pizza with fresh mozzarella, tomatoes, and basil",8.58,Main Course,622,Almond Milk,2.54,,,Available
+794,Chocolate Lava Cake,Creamy matcha tea blend with milk and ice,6.83,Appetizer,507,Chicken Strips,1.47,Avocado,0.84,Available
+795,Margherita Pizza,Warm chocolate cake with a molten chocolate center,14.87,Main Course,297,Almond Milk,1.26,Extra Cheese,1.78,Available
+796,Veggie Burger,A hearty burger with a plant-based patty and fresh toppings,6.71,Beverage,200,Chicken Strips,1.21,Almond Milk,1.0,Not Available
+797,Caesar Salad,Warm chocolate cake with a molten chocolate center,17.39,Beverage,363,Almond Milk,0.93,Almond Milk,1.65,Not Available
+798,Margherita Pizza,Warm chocolate cake with a molten chocolate center,9.18,Appetizer,698,,,Vanilla Ice Cream,1.18,Not Available
+799,Margherita Pizza,Creamy matcha tea blend with milk and ice,15.06,Main Course,360,Chicken Strips,2.47,,,Available
+800,Chocolate Lava Cake,A hearty burger with a plant-based patty and fresh toppings,15.91,Appetizer,645,Almond Milk,2.14,,,Not Available
+801,Caesar Salad,Creamy matcha tea blend with milk and ice,15.75,Dessert,567,Extra Cheese,2.29,,,Available
+802,Veggie Burger,Warm chocolate cake with a molten chocolate center,14.94,Main Course,624,,,Almond Milk,2.82,Available
+803,Chocolate Lava Cake,"Classic pizza with fresh mozzarella, tomatoes, and basil",6.87,Dessert,365,,,,,Not Available
+804,Iced Matcha Latte,Warm chocolate cake with a molten chocolate center,5.94,Main Course,158,Almond Milk,0.68,,,Available
+805,Margherita Pizza,"Romaine lettuce with Caesar dressing, croutons, and parmesan",10.58,Appetizer,603,Extra Cheese,1.57,,,Available
+806,Chocolate Lava Cake,Warm chocolate cake with a molten chocolate center,10.94,Main Course,632,Chicken Strips,2.68,Vanilla Ice Cream,2.56,Available
+807,Margherita Pizza,Creamy matcha tea blend with milk and ice,19.24,Dessert,637,Avocado,1.79,,,Available
+808,Margherita Pizza,"Romaine lettuce with Caesar dressing, croutons, and parmesan",6.67,Main Course,619,Extra Cheese,1.85,Extra Cheese,2.44,Not Available
+809,Veggie Burger,"Romaine lettuce with Caesar dressing, croutons, and parmesan",19.23,Beverage,455,Avocado,2.97,,,Not Available
+810,Veggie Burger,Creamy matcha tea blend with milk and ice,13.89,Beverage,557,,,,,Available
+811,Margherita Pizza,Warm chocolate cake with a molten chocolate center,18.28,Main Course,502,Chicken Strips,2.39,Vanilla Ice Cream,2.48,Not Available
+812,Margherita Pizza,Creamy matcha tea blend with milk and ice,10.58,Beverage,746,,,,,Available
+813,Chocolate Lava Cake,"Romaine lettuce with Caesar dressing, croutons, and parmesan",6.85,Dessert,761,Almond Milk,2.99,,,Not Available
+814,Iced Matcha Latte,A hearty burger with a plant-based patty and fresh toppings,5.67,Dessert,384,,,,,Available
+815,Caesar Salad,"Romaine lettuce with Caesar dressing, croutons, and parmesan",5.3,Dessert,105,Extra Cheese,0.79,,,Available
+816,Caesar Salad,Creamy matcha tea blend with milk and ice,6.74,Beverage,634,Chicken Strips,1.27,,,Not Available
+817,Veggie Burger,A hearty burger with a plant-based patty and fresh toppings,5.65,Dessert,511,,,,,Available
+818,Margherita Pizza,A hearty burger with a plant-based patty and fresh toppings,15.76,Beverage,201,,,,,Available
+819,Iced Matcha Latte,"Classic pizza with fresh mozzarella, tomatoes, and basil",12.66,Appetizer,425,,,Chicken Strips,2.99,Available
+820,Iced Matcha Latte,A hearty burger with a plant-based patty and fresh toppings,8.42,Beverage,799,,,Vanilla Ice Cream,1.21,Not Available
+821,Chocolate Lava Cake,"Classic pizza with fresh mozzarella, tomatoes, and basil",10.49,Beverage,431,Almond Milk,0.55,,,Available
+822,Veggie Burger,"Romaine lettuce with Caesar dressing, croutons, and parmesan",19.29,Main Course,535,Avocado,2.14,Extra Cheese,0.6,Available
+823,Veggie Burger,"Classic pizza with fresh mozzarella, tomatoes, and basil",10.46,Dessert,459,Vanilla Ice Cream,1.84,Almond Milk,1.86,Not Available
+824,Veggie Burger,Creamy matcha tea blend with milk and ice,17.36,Appetizer,443,Vanilla Ice Cream,2.69,,,Available
+825,Iced Matcha Latte,Creamy matcha tea blend with milk and ice,16.87,Appetizer,458,Chicken Strips,2.81,Chicken Strips,1.95,Not Available
+826,Iced Matcha Latte,"Classic pizza with fresh mozzarella, tomatoes, and basil",9.04,Appetizer,647,,,,,Available
+827,Veggie Burger,A hearty burger with a plant-based patty and fresh toppings,12.55,Beverage,733,Avocado,2.64,,,Available
+828,Chocolate Lava Cake,"Romaine lettuce with Caesar dressing, croutons, and parmesan",17.85,Dessert,385,Vanilla Ice Cream,1.66,Avocado,0.53,Not Available
+829,Chocolate Lava Cake,"Classic pizza with fresh mozzarella, tomatoes, and basil",11.66,Main Course,601,Vanilla Ice Cream,0.7,Almond Milk,1.11,Not Available
+830,Caesar Salad,"Classic pizza with fresh mozzarella, tomatoes, and basil",8.48,Main Course,452,,,,,Not Available
+831,Chocolate Lava Cake,Warm chocolate cake with a molten chocolate center,18.31,Beverage,572,Almond Milk,1.08,Chicken Strips,1.6,Not Available
+832,Chocolate Lava Cake,"Romaine lettuce with Caesar dressing, croutons, and parmesan",9.04,Appetizer,486,Extra Cheese,2.92,,,Available
+833,Veggie Burger,"Romaine lettuce with Caesar dressing, croutons, and parmesan",13.57,Main Course,157,,,,,Available
+834,Iced Matcha Latte,Warm chocolate cake with a molten chocolate center,9.05,Appetizer,185,,,,,Available
+835,Caesar Salad,"Romaine lettuce with Caesar dressing, croutons, and parmesan",19.0,Beverage,670,Vanilla Ice Cream,0.52,,,Not Available
+836,Margherita Pizza,A hearty burger with a plant-based patty and fresh toppings,13.91,Beverage,204,,,Avocado,1.35,Available
+837,Iced Matcha Latte,Warm chocolate cake with a molten chocolate center,12.89,Dessert,278,,,,,Available
+838,Margherita Pizza,"Classic pizza with fresh mozzarella, tomatoes, and basil",8.64,Main Course,418,,,Almond Milk,1.43,Not Available
+839,Iced Matcha Latte,"Romaine lettuce with Caesar dressing, croutons, and parmesan",12.54,Dessert,246,,,,,Not Available
+840,Margherita Pizza,"Romaine lettuce with Caesar dressing, croutons, and parmesan",9.46,Dessert,293,Avocado,0.67,Vanilla Ice Cream,0.99,Not Available
+841,Chocolate Lava Cake,A hearty burger with a plant-based patty and fresh toppings,7.12,Dessert,738,,,,,Available
+842,Chocolate Lava Cake,Warm chocolate cake with a molten chocolate center,6.86,Dessert,776,,,,,Available
+843,Caesar Salad,A hearty burger with a plant-based patty and fresh toppings,19.75,Main Course,341,,,,,Not Available
+844,Chocolate Lava Cake,"Romaine lettuce with Caesar dressing, croutons, and parmesan",17.19,Appetizer,259,,,,,Not Available
+845,Caesar Salad,A hearty burger with a plant-based patty and fresh toppings,8.56,Main Course,560,,,,,Available
+846,Caesar Salad,A hearty burger with a plant-based patty and fresh toppings,13.59,Beverage,481,,,Extra Cheese,2.77,Available
+847,Caesar Salad,Warm chocolate cake with a molten chocolate center,18.27,Beverage,324,Extra Cheese,2.18,,,Available
+848,Caesar Salad,A hearty burger with a plant-based patty and fresh toppings,10.62,Dessert,173,,,Chicken Strips,2.95,Available
+849,Caesar Salad,Creamy matcha tea blend with milk and ice,16.13,Appetizer,182,Avocado,2.07,Vanilla Ice Cream,1.77,Not Available
+850,Veggie Burger,"Classic pizza with fresh mozzarella, tomatoes, and basil",6.49,Main Course,283,Almond Milk,2.05,Vanilla Ice Cream,1.79,Not Available
+851,Margherita Pizza,A hearty burger with a plant-based patty and fresh toppings,12.03,Appetizer,362,Chicken Strips,2.87,,,Available
+852,Caesar Salad,Warm chocolate cake with a molten chocolate center,19.97,Dessert,249,,,,,Available
+853,Iced Matcha Latte,Warm chocolate cake with a molten chocolate center,11.87,Main Course,644,Vanilla Ice Cream,2.46,Vanilla Ice Cream,2.54,Not Available
+854,Veggie Burger,"Romaine lettuce with Caesar dressing, croutons, and parmesan",17.02,Main Course,695,Avocado,1.94,,,Not Available
+855,Iced Matcha Latte,A hearty burger with a plant-based patty and fresh toppings,16.42,Appetizer,440,,,Vanilla Ice Cream,2.0,Not Available
+856,Iced Matcha Latte,Creamy matcha tea blend with milk and ice,7.62,Dessert,284,,,,,Available
+857,Veggie Burger,Warm chocolate cake with a molten chocolate center,7.41,Main Course,156,,,Almond Milk,2.03,Available
+858,Margherita Pizza,Creamy matcha tea blend with milk and ice,8.41,Appetizer,152,Almond Milk,1.88,,,Not Available
+859,Caesar Salad,Warm chocolate cake with a molten chocolate center,12.55,Main Course,475,Chicken Strips,0.61,,,Not Available
+860,Margherita Pizza,Creamy matcha tea blend with milk and ice,15.7,Appetizer,458,Avocado,1.69,,,Not Available
+861,Iced Matcha Latte,Creamy matcha tea blend with milk and ice,12.8,Appetizer,253,Avocado,1.52,Almond Milk,2.29,Not Available
+862,Caesar Salad,"Romaine lettuce with Caesar dressing, croutons, and parmesan",17.51,Main Course,147,Chicken Strips,1.07,,,Not Available
+863,Iced Matcha Latte,Warm chocolate cake with a molten chocolate center,14.58,Beverage,346,Chicken Strips,1.09,Avocado,2.96,Not Available
+864,Veggie Burger,A hearty burger with a plant-based patty and fresh toppings,17.16,Beverage,625,,,Vanilla Ice Cream,1.38,Not Available
+865,Chocolate Lava Cake,"Classic pizza with fresh mozzarella, tomatoes, and basil",12.98,Main Course,659,Almond Milk,2.36,,,Available
+866,Caesar Salad,"Romaine lettuce with Caesar dressing, croutons, and parmesan",6.18,Beverage,457,,,Chicken Strips,1.03,Available
+867,Iced Matcha Latte,Warm chocolate cake with a molten chocolate center,8.0,Appetizer,148,,,,,Available
+868,Veggie Burger,Creamy matcha tea blend with milk and ice,15.34,Main Course,109,,,,,Available
+869,Iced Matcha Latte,Warm chocolate cake with a molten chocolate center,5.96,Appetizer,646,,,,,Available
+870,Caesar Salad,"Classic pizza with fresh mozzarella, tomatoes, and basil",5.25,Appetizer,705,,,Almond Milk,1.76,Not Available
+871,Caesar Salad,Warm chocolate cake with a molten chocolate center,19.09,Main Course,785,Extra Cheese,0.91,Avocado,0.61,Available
+872,Veggie Burger,Creamy matcha tea blend with milk and ice,18.1,Dessert,461,,,Almond Milk,0.75,Not Available
+873,Iced Matcha Latte,A hearty burger with a plant-based patty and fresh toppings,14.57,Main Course,529,Chicken Strips,2.89,Extra Cheese,1.07,Available
+874,Chocolate Lava Cake,Warm chocolate cake with a molten chocolate center,18.6,Main Course,678,Chicken Strips,2.65,,,Available
+875,Veggie Burger,A hearty burger with a plant-based patty and fresh toppings,10.22,Main Course,298,Chicken Strips,1.76,Extra Cheese,1.72,Not Available
+876,Iced Matcha Latte,Warm chocolate cake with a molten chocolate center,9.59,Main Course,129,Extra Cheese,2.29,Vanilla Ice Cream,1.26,Available
+877,Veggie Burger,Creamy matcha tea blend with milk and ice,14.24,Appetizer,591,,,Vanilla Ice Cream,2.96,Not Available
+878,Chocolate Lava Cake,Creamy matcha tea blend with milk and ice,13.3,Main Course,584,Extra Cheese,2.51,Extra Cheese,0.76,Not Available
+879,Veggie Burger,A hearty burger with a plant-based patty and fresh toppings,15.43,Main Course,361,,,,,Not Available
+880,Margherita Pizza,"Classic pizza with fresh mozzarella, tomatoes, and basil",12.9,Beverage,454,,,Vanilla Ice Cream,1.49,Available
+881,Caesar Salad,Creamy matcha tea blend with milk and ice,12.78,Beverage,537,Vanilla Ice Cream,0.83,Chicken Strips,1.13,Available
+882,Veggie Burger,A hearty burger with a plant-based patty and fresh toppings,14.2,Beverage,577,,,,,Available
+883,Iced Matcha Latte,"Classic pizza with fresh mozzarella, tomatoes, and basil",10.25,Main Course,180,Almond Milk,1.13,,,Available
+884,Caesar Salad,"Romaine lettuce with Caesar dressing, croutons, and parmesan",10.35,Beverage,342,Chicken Strips,1.91,Avocado,1.19,Available
+885,Margherita Pizza,"Romaine lettuce with Caesar dressing, croutons, and parmesan",10.87,Main Course,205,Extra Cheese,1.98,,,Not Available
+886,Caesar Salad,"Classic pizza with fresh mozzarella, tomatoes, and basil",15.21,Beverage,141,,,,,Not Available
+887,Caesar Salad,Warm chocolate cake with a molten chocolate center,10.46,Appetizer,679,,,,,Not Available
+888,Veggie Burger,Creamy matcha tea blend with milk and ice,6.7,Main Course,478,Vanilla Ice Cream,2.0,,,Not Available
+889,Margherita Pizza,"Classic pizza with fresh mozzarella, tomatoes, and basil",14.09,Dessert,136,Chicken Strips,1.45,,,Available
+890,Veggie Burger,Creamy matcha tea blend with milk and ice,19.07,Appetizer,702,,,Avocado,2.24,Not Available
+891,Caesar Salad,"Classic pizza with fresh mozzarella, tomatoes, and basil",18.17,Main Course,392,,,,,Not Available
+892,Caesar Salad,Warm chocolate cake with a molten chocolate center,8.03,Main Course,316,,,,,Available
+893,Caesar Salad,Warm chocolate cake with a molten chocolate center,19.9,Beverage,116,,,,,Not Available
+894,Margherita Pizza,Creamy matcha tea blend with milk and ice,11.69,Beverage,492,,,,,Available
+895,Caesar Salad,Creamy matcha tea blend with milk and ice,7.04,Dessert,473,Extra Cheese,1.28,,,Not Available
+896,Iced Matcha Latte,A hearty burger with a plant-based patty and fresh toppings,16.01,Main Course,683,Avocado,1.16,,,Not Available
+897,Veggie Burger,Warm chocolate cake with a molten chocolate center,8.98,Dessert,315,,,,,Not Available
+898,Chocolate Lava Cake,A hearty burger with a plant-based patty and fresh toppings,14.65,Dessert,131,Extra Cheese,1.87,,,Available
+899,Iced Matcha Latte,Warm chocolate cake with a molten chocolate center,16.59,Beverage,512,Extra Cheese,1.67,,,Not Available
+900,Iced Matcha Latte,"Classic pizza with fresh mozzarella, tomatoes, and basil",16.88,Dessert,387,,,Vanilla Ice Cream,1.0,Not Available
+901,Iced Matcha Latte,"Classic pizza with fresh mozzarella, tomatoes, and basil",8.44,Main Course,109,,,,,Available
+902,Iced Matcha Latte,A hearty burger with a plant-based patty and fresh toppings,18.95,Main Course,343,Avocado,0.75,,,Not Available
+903,Chocolate Lava Cake,Warm chocolate cake with a molten chocolate center,16.31,Main Course,279,,,Extra Cheese,2.65,Not Available
+904,Iced Matcha Latte,"Romaine lettuce with Caesar dressing, croutons, and parmesan",17.3,Main Course,528,Almond Milk,1.65,,,Not Available
+905,Veggie Burger,"Classic pizza with fresh mozzarella, tomatoes, and basil",11.36,Main Course,115,,,,,Available
+906,Chocolate Lava Cake,A hearty burger with a plant-based patty and fresh toppings,11.39,Main Course,585,Vanilla Ice Cream,2.77,Vanilla Ice Cream,2.73,Not Available
+907,Chocolate Lava Cake,"Romaine lettuce with Caesar dressing, croutons, and parmesan",18.86,Main Course,744,,,Chicken Strips,1.9,Not Available
+908,Margherita Pizza,Creamy matcha tea blend with milk and ice,9.56,Beverage,418,Almond Milk,1.66,,,Available
+909,Veggie Burger,Warm chocolate cake with a molten chocolate center,5.15,Main Course,606,,,Chicken Strips,1.42,Not Available
+910,Caesar Salad,"Classic pizza with fresh mozzarella, tomatoes, and basil",10.69,Beverage,771,,,Vanilla Ice Cream,0.67,Available
+911,Chocolate Lava Cake,Creamy matcha tea blend with milk and ice,18.6,Main Course,258,,,Almond Milk,0.55,Not Available
+912,Iced Matcha Latte,Creamy matcha tea blend with milk and ice,9.69,Dessert,734,Vanilla Ice Cream,2.65,,,Not Available
+913,Margherita Pizza,"Classic pizza with fresh mozzarella, tomatoes, and basil",19.33,Appetizer,290,Avocado,2.44,,,Not Available
+914,Caesar Salad,"Romaine lettuce with Caesar dressing, croutons, and parmesan",12.97,Appetizer,365,Extra Cheese,0.67,,,Not Available
+915,Iced Matcha Latte,Creamy matcha tea blend with milk and ice,9.47,Appetizer,387,Chicken Strips,0.57,Chicken Strips,1.63,Available
+916,Caesar Salad,Warm chocolate cake with a molten chocolate center,6.89,Main Course,253,Chicken Strips,1.16,Extra Cheese,1.5,Not Available
+917,Caesar Salad,Creamy matcha tea blend with milk and ice,8.59,Appetizer,498,,,,,Not Available
+918,Caesar Salad,"Romaine lettuce with Caesar dressing, croutons, and parmesan",9.63,Beverage,223,,,,,Not Available
+919,Iced Matcha Latte,"Romaine lettuce with Caesar dressing, croutons, and parmesan",7.13,Appetizer,797,,,,,Not Available
+920,Iced Matcha Latte,A hearty burger with a plant-based patty and fresh toppings,5.79,Dessert,116,Chicken Strips,2.61,,,Not Available
+921,Iced Matcha Latte,Creamy matcha tea blend with milk and ice,17.57,Beverage,687,Avocado,0.78,,,Not Available
+922,Margherita Pizza,"Classic pizza with fresh mozzarella, tomatoes, and basil",5.83,Beverage,155,Extra Cheese,0.9,,,Available
+923,Veggie Burger,"Classic pizza with fresh mozzarella, tomatoes, and basil",17.36,Appetizer,505,Vanilla Ice Cream,2.21,,,Available
+924,Caesar Salad,A hearty burger with a plant-based patty and fresh toppings,8.38,Dessert,214,Extra Cheese,2.81,,,Available
+925,Caesar Salad,Warm chocolate cake with a molten chocolate center,8.44,Dessert,598,Vanilla Ice Cream,1.23,Almond Milk,2.13,Available
+926,Veggie Burger,Creamy matcha tea blend with milk and ice,16.05,Main Course,400,,,Vanilla Ice Cream,2.79,Not Available
+927,Veggie Burger,"Romaine lettuce with Caesar dressing, croutons, and parmesan",16.35,Beverage,655,,,Almond Milk,1.35,Available
+928,Margherita Pizza,A hearty burger with a plant-based patty and fresh toppings,6.46,Main Course,333,Vanilla Ice Cream,0.77,Almond Milk,2.5,Available
+929,Veggie Burger,A hearty burger with a plant-based patty and fresh toppings,5.04,Beverage,183,,,Almond Milk,2.37,Not Available
+930,Iced Matcha Latte,"Romaine lettuce with Caesar dressing, croutons, and parmesan",17.98,Appetizer,640,,,Vanilla Ice Cream,0.96,Not Available
+931,Caesar Salad,Creamy matcha tea blend with milk and ice,18.01,Main Course,516,,,,,Available
+932,Margherita Pizza,"Romaine lettuce with Caesar dressing, croutons, and parmesan",6.58,Dessert,317,,,,,Available
+933,Iced Matcha Latte,Warm chocolate cake with a molten chocolate center,5.95,Main Course,590,Chicken Strips,1.19,,,Available
+934,Caesar Salad,Creamy matcha tea blend with milk and ice,7.68,Dessert,273,,,,,Available
+935,Caesar Salad,Warm chocolate cake with a molten chocolate center,17.11,Dessert,510,Almond Milk,2.93,,,Available
+936,Iced Matcha Latte,Creamy matcha tea blend with milk and ice,16.91,Main Course,191,,,Almond Milk,1.26,Not Available
+937,Chocolate Lava Cake,A hearty burger with a plant-based patty and fresh toppings,13.38,Dessert,214,Vanilla Ice Cream,2.78,,,Available
+938,Caesar Salad,"Classic pizza with fresh mozzarella, tomatoes, and basil",6.68,Main Course,441,Avocado,2.32,Vanilla Ice Cream,2.54,Available
+939,Caesar Salad,Warm chocolate cake with a molten chocolate center,9.47,Beverage,266,,,Almond Milk,0.64,Available
+940,Veggie Burger,A hearty burger with a plant-based patty and fresh toppings,11.86,Appetizer,609,Extra Cheese,2.16,,,Not Available
+941,Chocolate Lava Cake,"Classic pizza with fresh mozzarella, tomatoes, and basil",7.18,Main Course,108,Avocado,2.99,,,Not Available
+942,Iced Matcha Latte,A hearty burger with a plant-based patty and fresh toppings,19.56,Appetizer,251,Chicken Strips,2.26,Extra Cheese,1.81,Not Available
+943,Iced Matcha Latte,Creamy matcha tea blend with milk and ice,15.86,Main Course,438,,,,,Not Available
+944,Margherita Pizza,"Classic pizza with fresh mozzarella, tomatoes, and basil",14.92,Dessert,797,Extra Cheese,1.99,Almond Milk,2.48,Not Available
+945,Chocolate Lava Cake,"Romaine lettuce with Caesar dressing, croutons, and parmesan",10.87,Dessert,645,,,,,Not Available
+946,Caesar Salad,"Classic pizza with fresh mozzarella, tomatoes, and basil",15.69,Main Course,416,Extra Cheese,2.36,Avocado,2.54,Available
+947,Caesar Salad,Creamy matcha tea blend with milk and ice,8.9,Main Course,750,,,,,Available
+948,Chocolate Lava Cake,"Romaine lettuce with Caesar dressing, croutons, and parmesan",14.84,Main Course,110,Chicken Strips,2.7,Chicken Strips,2.15,Not Available
+949,Chocolate Lava Cake,"Classic pizza with fresh mozzarella, tomatoes, and basil",10.44,Appetizer,407,Extra Cheese,2.47,,,Available
+950,Iced Matcha Latte,"Classic pizza with fresh mozzarella, tomatoes, and basil",18.01,Beverage,112,Extra Cheese,2.68,Avocado,1.74,Available
+951,Veggie Burger,Creamy matcha tea blend with milk and ice,16.8,Beverage,238,Avocado,2.93,,,Available
+952,Chocolate Lava Cake,A hearty burger with a plant-based patty and fresh toppings,12.87,Appetizer,799,Almond Milk,2.39,,,Not Available
+953,Margherita Pizza,Warm chocolate cake with a molten chocolate center,6.53,Main Course,249,,,Extra Cheese,2.07,Not Available
+954,Veggie Burger,A hearty burger with a plant-based patty and fresh toppings,16.75,Beverage,185,Vanilla Ice Cream,1.4,,,Not Available
+955,Veggie Burger,A hearty burger with a plant-based patty and fresh toppings,17.64,Main Course,249,Vanilla Ice Cream,2.29,Chicken Strips,1.78,Available
+956,Chocolate Lava Cake,A hearty burger with a plant-based patty and fresh toppings,9.08,Dessert,122,Extra Cheese,2.1,,,Not Available
+957,Veggie Burger,"Romaine lettuce with Caesar dressing, croutons, and parmesan",10.36,Beverage,287,Chicken Strips,1.86,,,Not Available
+958,Chocolate Lava Cake,Warm chocolate cake with a molten chocolate center,8.63,Dessert,468,Extra Cheese,2.46,,,Available
+959,Chocolate Lava Cake,A hearty burger with a plant-based patty and fresh toppings,16.07,Dessert,720,,,Almond Milk,1.45,Available
+960,Chocolate Lava Cake,"Classic pizza with fresh mozzarella, tomatoes, and basil",9.19,Beverage,163,,,Chicken Strips,0.81,Not Available
+961,Margherita Pizza,"Classic pizza with fresh mozzarella, tomatoes, and basil",8.12,Beverage,513,Vanilla Ice Cream,2.0,,,Not Available
+962,Caesar Salad,Creamy matcha tea blend with milk and ice,11.65,Main Course,798,,,,,Not Available
+963,Margherita Pizza,"Romaine lettuce with Caesar dressing, croutons, and parmesan",14.2,Beverage,384,,,,,Not Available
+964,Chocolate Lava Cake,"Classic pizza with fresh mozzarella, tomatoes, and basil",9.33,Beverage,764,,,Chicken Strips,0.88,Available
+965,Iced Matcha Latte,Warm chocolate cake with a molten chocolate center,9.54,Beverage,120,Avocado,1.8,Avocado,2.47,Available
+966,Iced Matcha Latte,"Romaine lettuce with Caesar dressing, croutons, and parmesan",13.54,Main Course,683,Chicken Strips,0.74,Almond Milk,2.91,Not Available
+967,Margherita Pizza,Creamy matcha tea blend with milk and ice,14.08,Beverage,628,Extra Cheese,1.38,Extra Cheese,2.35,Not Available
+968,Caesar Salad,"Classic pizza with fresh mozzarella, tomatoes, and basil",19.78,Appetizer,171,Extra Cheese,0.58,Avocado,1.75,Available
+969,Caesar Salad,A hearty burger with a plant-based patty and fresh toppings,14.56,Main Course,616,,,Chicken Strips,1.47,Available
+970,Margherita Pizza,Warm chocolate cake with a molten chocolate center,8.97,Beverage,251,Chicken Strips,1.35,,,Available
+971,Iced Matcha Latte,Creamy matcha tea blend with milk and ice,15.66,Appetizer,335,Almond Milk,0.83,,,Not Available
+972,Iced Matcha Latte,Creamy matcha tea blend with milk and ice,17.08,Main Course,563,,,,,Not Available
+973,Chocolate Lava Cake,"Romaine lettuce with Caesar dressing, croutons, and parmesan",16.66,Beverage,110,Chicken Strips,1.21,,,Not Available
+974,Chocolate Lava Cake,A hearty burger with a plant-based patty and fresh toppings,16.0,Main Course,416,Vanilla Ice Cream,2.47,,,Not Available
+975,Chocolate Lava Cake,Warm chocolate cake with a molten chocolate center,13.72,Main Course,360,,,,,Not Available
+976,Veggie Burger,A hearty burger with a plant-based patty and fresh toppings,12.38,Beverage,219,,,,,Available
+977,Margherita Pizza,A hearty burger with a plant-based patty and fresh toppings,19.92,Beverage,481,Chicken Strips,0.96,Avocado,2.05,Not Available
+978,Margherita Pizza,Creamy matcha tea blend with milk and ice,8.31,Main Course,757,Avocado,1.39,,,Not Available
+979,Veggie Burger,Creamy matcha tea blend with milk and ice,9.64,Main Course,552,,,Extra Cheese,2.26,Not Available
+980,Margherita Pizza,Creamy matcha tea blend with milk and ice,14.68,Dessert,721,Vanilla Ice Cream,1.18,Avocado,1.66,Available
+981,Margherita Pizza,"Romaine lettuce with Caesar dressing, croutons, and parmesan",9.73,Appetizer,472,,,Chicken Strips,1.2,Available
+982,Veggie Burger,"Classic pizza with fresh mozzarella, tomatoes, and basil",16.84,Appetizer,269,,,Vanilla Ice Cream,2.17,Not Available
+983,Veggie Burger,"Romaine lettuce with Caesar dressing, croutons, and parmesan",5.97,Dessert,578,,,,,Not Available
+984,Iced Matcha Latte,Creamy matcha tea blend with milk and ice,18.03,Main Course,671,,,Avocado,1.35,Available
+985,Caesar Salad,Warm chocolate cake with a molten chocolate center,16.38,Main Course,200,,,,,Not Available
+986,Chocolate Lava Cake,Creamy matcha tea blend with milk and ice,8.62,Main Course,502,,,,,Available
+987,Iced Matcha Latte,Warm chocolate cake with a molten chocolate center,5.66,Beverage,134,Vanilla Ice Cream,2.54,Chicken Strips,1.6,Not Available
+988,Margherita Pizza,"Classic pizza with fresh mozzarella, tomatoes, and basil",15.41,Main Course,638,Avocado,2.09,,,Not Available
+989,Iced Matcha Latte,"Classic pizza with fresh mozzarella, tomatoes, and basil",5.96,Beverage,551,,,Extra Cheese,2.2,Not Available
+990,Veggie Burger,Creamy matcha tea blend with milk and ice,5.26,Dessert,524,,,,,Not Available
+991,Iced Matcha Latte,"Romaine lettuce with Caesar dressing, croutons, and parmesan",15.05,Beverage,156,Extra Cheese,2.44,Almond Milk,2.77,Available
+992,Chocolate Lava Cake,A hearty burger with a plant-based patty and fresh toppings,13.29,Appetizer,191,,,,,Available
+993,Iced Matcha Latte,"Classic pizza with fresh mozzarella, tomatoes, and basil",17.22,Dessert,290,,,,,Not Available
+994,Veggie Burger,Creamy matcha tea blend with milk and ice,11.33,Appetizer,742,Avocado,0.71,Extra Cheese,1.01,Available
+995,Caesar Salad,A hearty burger with a plant-based patty and fresh toppings,17.09,Appetizer,713,Avocado,2.85,Chicken Strips,0.51,Available
+996,Veggie Burger,"Romaine lettuce with Caesar dressing, croutons, and parmesan",17.06,Appetizer,351,,,,,Available
+997,Caesar Salad,Warm chocolate cake with a molten chocolate center,17.18,Main Course,132,Vanilla Ice Cream,0.61,,,Not Available
+998,Veggie Burger,Warm chocolate cake with a molten chocolate center,8.27,Appetizer,515,,,,,Not Available
+999,Caesar Salad,"Classic pizza with fresh mozzarella, tomatoes, and basil",17.41,Dessert,747,Almond Milk,2.75,,,Available
+1000,Veggie Burger,Creamy matcha tea blend with milk and ice,9.2,Main Course,186,Extra Cheese,2.12,Almond Milk,2.14,Available
